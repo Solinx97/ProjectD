@@ -1,6 +1,6 @@
 ﻿namespace ViewDirectory.Models
 {
-    public class LoadsViewModel
+    public class Loads
     {
         public int Id { get; set; }
 

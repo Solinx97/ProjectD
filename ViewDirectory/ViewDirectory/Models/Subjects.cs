@@ -1,9 +1,8 @@
 ﻿namespace ViewDirectory.Models
 {
-    public class GroupsViewModel
+    public class Subjects
     {
         public int Id { get; set; }
-
         public string Name { get; set; }
     }
 }

@@ -1,0 +1,26 @@
+﻿@model DataTransfer
+
+<div class="flex-row__flex-start">
+    <div class="container__facilties_groups">
+        <div class="flex-row__flex-start">
+            <div><strong>Факультеты</strong></div>
+            <div><strong>Группы</strong></div>
+        </div>
+        @foreach (var faculty in Model.Faculties)
+        {
+            <div class="flex-row__flex-start container__facilties_groups__table">
+                <div>@faculty.Name</div>
+                <div>
+                    @foreach (var group in Model.Groups)
+                    {
+                        @if (group.FacultyId == faculty.Id)
+                        {
+                            <div class="group" data-content="group" data-value="@group.Id">@group.Name</div>
+                        }
+                    }
+                </div>
+            </div>
+        }
+    </div>
+    <div id="result"></div>
+</div>

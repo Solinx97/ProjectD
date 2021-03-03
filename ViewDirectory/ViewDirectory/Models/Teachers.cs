@@ -1,6 +1,6 @@
 ﻿namespace ViewDirectory.Models
 {
-    public class FaculitiesViewModel
+    public class Teachers
     {
         public int Id { get; set; }
 
