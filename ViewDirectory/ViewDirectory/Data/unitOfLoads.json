@@ -1,0 +1,2588 @@
+[
+  {
+    "id": 101,
+    "idLoad": 1,
+    "idTeacher": 1,
+    "value": 34.0
+  },
+  {
+    "id": 104,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 11.1
+  },
+  {
+    "id": 105,
+    "idLoad": 5,
+    "idTeacher": 1,
+    "value": 20.0
+  },
+  {
+    "id": 202,
+    "idLoad": 2,
+    "idTeacher": 2,
+    "value": 52.0
+  },
+  {
+    "id": 302,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 34.0
+  },
+  {
+    "id": 402,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 34.0
+  },
+  {
+    "id": 502,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 4.0
+  },
+  {
+    "id": 602,
+    "idLoad": 2,
+    "idTeacher": 5,
+    "value": 6.0
+  },
+  {
+    "id": 702,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 6.0
+  },
+  {
+    "id": 802,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 8.0
+  },
+  {
+    "id": 902,
+    "idLoad": 2,
+    "idTeacher": 2,
+    "value": 26.0
+  },
+  {
+    "id": 1002,
+    "idLoad": 2,
+    "idTeacher": 2,
+    "value": 26.0
+  },
+  {
+    "id": 1102,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 8.0
+  },
+  {
+    "id": 1201,
+    "idLoad": 1,
+    "idTeacher": 4,
+    "value": 12.0
+  },
+  {
+    "id": 1301,
+    "idLoad": 1,
+    "idTeacher": 2,
+    "value": 22.0
+  },
+  {
+    "id": 1304,
+    "idLoad": 4,
+    "idTeacher": 2,
+    "value": 7.4
+  },
+  {
+    "id": 1305,
+    "idLoad": 5,
+    "idTeacher": 2,
+    "value": 14.5
+  },
+  {
+    "id": 1401,
+    "idLoad": 1,
+    "idTeacher": 6,
+    "value": 34.0
+  },
+  {
+    "id": 1404,
+    "idLoad": 4,
+    "idTeacher": 6,
+    "value": 18.5
+  },
+  {
+    "id": 1405,
+    "idLoad": 5,
+    "idTeacher": 6,
+    "value": 49.5
+  },
+  {
+    "id": 1501,
+    "idLoad": 1,
+    "idTeacher": 1,
+    "value": 34.0
+  },
+  {
+    "id": 1504,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 14.8
+  },
+  {
+    "id": 1505,
+    "idLoad": 5,
+    "idTeacher": 1,
+    "value": 42.0
+  },
+  {
+    "id": 1602,
+    "idLoad": 2,
+    "idTeacher": 6,
+    "value": 68.0
+  },
+  {
+    "id": 1702,
+    "idLoad": 2,
+    "idTeacher": 5,
+    "value": 68.0
+  },
+  {
+    "id": 1802,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 68.0
+  },
+  {
+    "id": 1902,
+    "idLoad": 2,
+    "idTeacher": 5,
+    "value": 8.0
+  },
+  {
+    "id": 2002,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 26.0
+  },
+  {
+    "id": 2102,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 34.0
+  },
+  {
+    "id": 2202,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 68.0
+  },
+  {
+    "id": 2302,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 68.0
+  },
+  {
+    "id": 2401,
+    "idLoad": 1,
+    "idTeacher": 1,
+    "value": 17.0
+  },
+  {
+    "id": 2404,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 3.2
+  },
+  {
+    "id": 2502,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 68.0
+  },
+  {
+    "id": 2602,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 68.0
+  },
+  {
+    "id": 2702,
+    "idLoad": 2,
+    "idTeacher": 11,
+    "value": 102.0
+  },
+  {
+    "id": 2802,
+    "idLoad": 2,
+    "idTeacher": 11,
+    "value": 51.0
+  },
+  {
+    "id": 2902,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 51.0
+  },
+  {
+    "id": 3001,
+    "idLoad": 1,
+    "idTeacher": 11,
+    "value": 17.0
+  },
+  {
+    "id": 3004,
+    "idLoad": 4,
+    "idTeacher": 11,
+    "value": 5.6
+  },
+  {
+    "id": 3005,
+    "idLoad": 5,
+    "idTeacher": 11,
+    "value": 19.0
+  },
+  {
+    "id": 3106,
+    "idLoad": 6,
+    "idTeacher": 1,
+    "value": 5.7
+  },
+  {
+    "id": 3206,
+    "idLoad": 6,
+    "idTeacher": 1,
+    "value": 5.7
+  },
+  {
+    "id": 3302,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 68.0
+  },
+  {
+    "id": 3415,
+    "idLoad": 15,
+    "idTeacher": 10,
+    "value": 6.6
+  },
+  {
+    "id": 3502,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 34.0
+  },
+  {
+    "id": 3507,
+    "idLoad": 7,
+    "idTeacher": 9,
+    "value": 31.4
+  },
+  {
+    "id": 3602,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 68.0
+  },
+  {
+    "id": 3603,
+    "idLoad": 3,
+    "idTeacher": 7,
+    "value": 17.0
+  },
+  {
+    "id": 3701,
+    "idLoad": 1,
+    "idTeacher": 12,
+    "value": 34.0
+  },
+  {
+    "id": 3702,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 68.0
+  },
+  {
+    "id": 3704,
+    "idLoad": 4,
+    "idTeacher": 12,
+    "value": 3.7
+  },
+  {
+    "id": 3705,
+    "idLoad": 5,
+    "idTeacher": 12,
+    "value": 10.0
+  },
+  {
+    "id": 3802,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 68.0
+  },
+  {
+    "id": 3902,
+    "idLoad": 2,
+    "idTeacher": 13,
+    "value": 68.0
+  },
+  {
+    "id": 4002,
+    "idLoad": 2,
+    "idTeacher": 13,
+    "value": 34.0
+  },
+  {
+    "id": 4101,
+    "idLoad": 1,
+    "idTeacher": 13,
+    "value": 34.0
+  },
+  {
+    "id": 4104,
+    "idLoad": 4,
+    "idTeacher": 13,
+    "value": 7.4
+  },
+  {
+    "id": 4105,
+    "idLoad": 5,
+    "idTeacher": 13,
+    "value": 21.0
+  },
+  {
+    "id": 4201,
+    "idLoad": 1,
+    "idTeacher": 10,
+    "value": 34.0
+  },
+  {
+    "id": 4204,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 3.4
+  },
+  {
+    "id": 4302,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 17.0
+  },
+  {
+    "id": 4406,
+    "idLoad": 6,
+    "idTeacher": 10,
+    "value": 4.2
+  },
+  {
+    "id": 4502,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 34.0
+  },
+  {
+    "id": 4506,
+    "idLoad": 6,
+    "idTeacher": 10,
+    "value": 8.4
+  },
+  {
+    "id": 4601,
+    "idLoad": 1,
+    "idTeacher": 12,
+    "value": 34.0
+  },
+  {
+    "id": 4604,
+    "idLoad": 4,
+    "idTeacher": 12,
+    "value": 11.1
+  },
+  {
+    "id": 4605,
+    "idLoad": 5,
+    "idTeacher": 12,
+    "value": 35.5
+  },
+  {
+    "id": 4702,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 68.0
+  },
+  {
+    "id": 4802,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 68.0
+  },
+  {
+    "id": 4902,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 68.0
+  },
+  {
+    "id": 5002,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 68.0
+  },
+  {
+    "id": 5102,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 68.0
+  },
+  {
+    "id": 5202,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 34.0
+  },
+  {
+    "id": 5306,
+    "idLoad": 6,
+    "idTeacher": 1,
+    "value": 6.6
+  },
+  {
+    "id": 5406,
+    "idLoad": 6,
+    "idTeacher": 1,
+    "value": 8.4
+  },
+  {
+    "id": 5501,
+    "idLoad": 1,
+    "idTeacher": 12,
+    "value": 8.0
+  },
+  {
+    "id": 5504,
+    "idLoad": 4,
+    "idTeacher": 12,
+    "value": 12.8
+  },
+  {
+    "id": 5505,
+    "idLoad": 5,
+    "idTeacher": 12,
+    "value": 37.0
+  },
+  {
+    "id": 5602,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 8.0
+  },
+  {
+    "id": 5604,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 4.2
+  },
+  {
+    "id": 5702,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 16.0
+  },
+  {
+    "id": 5704,
+    "idLoad": 4,
+    "idTeacher": 12,
+    "value": 7.5
+  },
+  {
+    "id": 5802,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 16.0
+  },
+  {
+    "id": 5804,
+    "idLoad": 4,
+    "idTeacher": 8,
+    "value": 7.5
+  },
+  {
+    "id": 5902,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 8.0
+  },
+  {
+    "id": 5904,
+    "idLoad": 4,
+    "idTeacher": 3,
+    "value": 3.0
+  },
+  {
+    "id": 6001,
+    "idLoad": 1,
+    "idTeacher": 14,
+    "value": 12.0
+  },
+  {
+    "id": 6004,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 3.8
+  },
+  {
+    "id": 6005,
+    "idLoad": 5,
+    "idTeacher": 14,
+    "value": 10.0
+  },
+  {
+    "id": 6102,
+    "idLoad": 2,
+    "idTeacher": 14,
+    "value": 24.0
+  },
+  {
+    "id": 6104,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 6.0
+  },
+  {
+    "id": 6116,
+    "idLoad": 16,
+    "idTeacher": 14,
+    "value": 5.0
+  },
+  {
+    "id": 6201,
+    "idLoad": 1,
+    "idTeacher": 14,
+    "value": 6.0
+  },
+  {
+    "id": 6204,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 2.9
+  },
+  {
+    "id": 6205,
+    "idLoad": 5,
+    "idTeacher": 14,
+    "value": 8.0
+  },
+  {
+    "id": 6302,
+    "idLoad": 2,
+    "idTeacher": 14,
+    "value": 6.0
+  },
+  {
+    "id": 6304,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 4.8
+  },
+  {
+    "id": 6316,
+    "idLoad": 16,
+    "idTeacher": 14,
+    "value": 4.0
+  },
+  {
+    "id": 6401,
+    "idLoad": 1,
+    "idTeacher": 14,
+    "value": 8.0
+  },
+  {
+    "id": 6404,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 9.6
+  },
+  {
+    "id": 6405,
+    "idLoad": 5,
+    "idTeacher": 14,
+    "value": 25.0
+  },
+  {
+    "id": 6502,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 16.0
+  },
+  {
+    "id": 6504,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 5.1
+  },
+  {
+    "id": 6602,
+    "idLoad": 2,
+    "idTeacher": 14,
+    "value": 16.0
+  },
+  {
+    "id": 6604,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 6.9
+  },
+  {
+    "id": 6702,
+    "idLoad": 2,
+    "idTeacher": 14,
+    "value": 8.0
+  },
+  {
+    "id": 6704,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 3.0
+  },
+  {
+    "id": 6801,
+    "idLoad": 1,
+    "idTeacher": 7,
+    "value": 6.0
+  },
+  {
+    "id": 6804,
+    "idLoad": 4,
+    "idTeacher": 7,
+    "value": 2.9
+  },
+  {
+    "id": 6805,
+    "idLoad": 5,
+    "idTeacher": 7,
+    "value": 8.0
+  },
+  {
+    "id": 6902,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 4.0
+  },
+  {
+    "id": 6904,
+    "idLoad": 4,
+    "idTeacher": 7,
+    "value": 4.8
+  },
+  {
+    "id": 7001,
+    "idLoad": 1,
+    "idTeacher": 12,
+    "value": 4.0
+  },
+  {
+    "id": 7004,
+    "idLoad": 4,
+    "idTeacher": 12,
+    "value": 1.8
+  },
+  {
+    "id": 7102,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 8.0
+  },
+  {
+    "id": 7202,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 8.0
+  },
+  {
+    "id": 7302,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 8.0
+  },
+  {
+    "id": 7401,
+    "idLoad": 1,
+    "idTeacher": 14,
+    "value": 4.0
+  },
+  {
+    "id": 7404,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 2.6
+  },
+  {
+    "id": 7405,
+    "idLoad": 5,
+    "idTeacher": 14,
+    "value": 11.5
+  },
+  {
+    "id": 7502,
+    "idLoad": 2,
+    "idTeacher": 14,
+    "value": 12.0
+  },
+  {
+    "id": 7504,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 6.9
+  },
+  {
+    "id": 7516,
+    "idLoad": 16,
+    "idTeacher": 14,
+    "value": 5.8
+  },
+  {
+    "id": 7601,
+    "idLoad": 1,
+    "idTeacher": 8,
+    "value": 4.0
+  },
+  {
+    "id": 7604,
+    "idLoad": 4,
+    "idTeacher": 8,
+    "value": 2.6
+  },
+  {
+    "id": 7605,
+    "idLoad": 5,
+    "idTeacher": 8,
+    "value": 9.5
+  },
+  {
+    "id": 7702,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 8.0
+  },
+  {
+    "id": 7703,
+    "idLoad": 3,
+    "idTeacher": 8,
+    "value": 2.0
+  },
+  {
+    "id": 7704,
+    "idLoad": 4,
+    "idTeacher": 8,
+    "value": 5.7
+  },
+  {
+    "id": 7716,
+    "idLoad": 16,
+    "idTeacher": 8,
+    "value": 4.8
+  },
+  {
+    "id": 7802,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 8.0
+  },
+  {
+    "id": 7804,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 6.0
+  },
+  {
+    "id": 7806,
+    "idLoad": 6,
+    "idTeacher": 9,
+    "value": 6.0
+  },
+  {
+    "id": 7904,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 4.0
+  },
+  {
+    "id": 7905,
+    "idLoad": 5,
+    "idTeacher": 9,
+    "value": 16.0
+  },
+  {
+    "id": 8002,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 8.0
+  },
+  {
+    "id": 8004,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 6.3
+  },
+  {
+    "id": 8102,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 4.0
+  },
+  {
+    "id": 8104,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 3.3
+  },
+  {
+    "id": 8201,
+    "idLoad": 1,
+    "idTeacher": 7,
+    "value": 8.0
+  },
+  {
+    "id": 8204,
+    "idLoad": 4,
+    "idTeacher": 7,
+    "value": 1.2
+  },
+  {
+    "id": 8302,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 8.0
+  },
+  {
+    "id": 8303,
+    "idLoad": 3,
+    "idTeacher": 7,
+    "value": 2.0
+  },
+  {
+    "id": 8401,
+    "idLoad": 1,
+    "idTeacher": 5,
+    "value": 4.0
+  },
+  {
+    "id": 8501,
+    "idLoad": 1,
+    "idTeacher": 15,
+    "value": 6.0
+  },
+  {
+    "id": 8504,
+    "idLoad": 4,
+    "idTeacher": 15,
+    "value": 1.5
+  },
+  {
+    "id": 8506,
+    "idLoad": 6,
+    "idTeacher": 15,
+    "value": 5.7
+  },
+  {
+    "id": 8602,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 20.0
+  },
+  {
+    "id": 8604,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 5.7
+  },
+  {
+    "id": 8701,
+    "idLoad": 1,
+    "idTeacher": 1,
+    "value": 8.0
+  },
+  {
+    "id": 8704,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 3.2
+  },
+  {
+    "id": 8705,
+    "idLoad": 5,
+    "idTeacher": 1,
+    "value": 10.0
+  },
+  {
+    "id": 8804,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 2.0
+  },
+  {
+    "id": 8805,
+    "idLoad": 5,
+    "idTeacher": 14,
+    "value": 10.0
+  },
+  {
+    "id": 8902,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 20.0
+  },
+  {
+    "id": 8904,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 6.0
+  },
+  {
+    "id": 8916,
+    "idLoad": 16,
+    "idTeacher": 1,
+    "value": 5.0
+  },
+  {
+    "id": 9004,
+    "idLoad": 4,
+    "idTeacher": 2,
+    "value": 2.0
+  },
+  {
+    "id": 9005,
+    "idLoad": 5,
+    "idTeacher": 2,
+    "value": 8.5
+  },
+  {
+    "id": 9102,
+    "idLoad": 2,
+    "idTeacher": 2,
+    "value": 8.0
+  },
+  {
+    "id": 9104,
+    "idLoad": 4,
+    "idTeacher": 2,
+    "value": 5.1
+  },
+  {
+    "id": 9116,
+    "idLoad": 16,
+    "idTeacher": 2,
+    "value": 4.3
+  },
+  {
+    "id": 9201,
+    "idLoad": 1,
+    "idTeacher": 8,
+    "value": 34.0
+  },
+  {
+    "id": 9204,
+    "idLoad": 4,
+    "idTeacher": 8,
+    "value": 7.4
+  },
+  {
+    "id": 9205,
+    "idLoad": 5,
+    "idTeacher": 8,
+    "value": 21.5
+  },
+  {
+    "id": 9315,
+    "idLoad": 15,
+    "idTeacher": 3,
+    "value": 9.8
+  },
+  {
+    "id": 9402,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 68.0
+  },
+  {
+    "id": 9407,
+    "idLoad": 7,
+    "idTeacher": 8,
+    "value": 46.2
+  },
+  {
+    "id": 9515,
+    "idLoad": 15,
+    "idTeacher": 8,
+    "value": 5.2
+  },
+  {
+    "id": 9602,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 34.0
+  },
+  {
+    "id": 9607,
+    "idLoad": 7,
+    "idTeacher": 3,
+    "value": 24.8
+  },
+  {
+    "id": 9702,
+    "idLoad": 2,
+    "idTeacher": 13,
+    "value": 68.0
+  },
+  {
+    "id": 9706,
+    "idLoad": 6,
+    "idTeacher": 13,
+    "value": 8.4
+  },
+  {
+    "id": 9802,
+    "idLoad": 2,
+    "idTeacher": 13,
+    "value": 34.0
+  },
+  {
+    "id": 9806,
+    "idLoad": 6,
+    "idTeacher": 13,
+    "value": 4.5
+  },
+  {
+    "id": 9901,
+    "idLoad": 1,
+    "idTeacher": 13,
+    "value": 34.0
+  },
+  {
+    "id": 9904,
+    "idLoad": 4,
+    "idTeacher": 13,
+    "value": 3.4
+  },
+  {
+    "id": 10001,
+    "idLoad": 1,
+    "idTeacher": 9,
+    "value": 34.0
+  },
+  {
+    "id": 10002,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 34.0
+  },
+  {
+    "id": 10004,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 1.7
+  },
+  {
+    "id": 10006,
+    "idLoad": 6,
+    "idTeacher": 9,
+    "value": 6.3
+  },
+  {
+    "id": 10202,
+    "idLoad": 2,
+    "idTeacher": 6,
+    "value": 68.0
+  },
+  {
+    "id": 10203,
+    "idLoad": 3,
+    "idTeacher": 6,
+    "value": 17.0
+  },
+  {
+    "id": 10301,
+    "idLoad": 1,
+    "idTeacher": 7,
+    "value": 34.0
+  },
+  {
+    "id": 10304,
+    "idLoad": 4,
+    "idTeacher": 7,
+    "value": 7.4
+  },
+  {
+    "id": 10305,
+    "idLoad": 5,
+    "idTeacher": 7,
+    "value": 22.5
+  },
+  {
+    "id": 10402,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 68.0
+  },
+  {
+    "id": 10502,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 34.0
+  },
+  {
+    "id": 10602,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 34.0
+  },
+  {
+    "id": 10702,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 68.0
+  },
+  {
+    "id": 10706,
+    "idLoad": 6,
+    "idTeacher": 7,
+    "value": 6.0
+  },
+  {
+    "id": 10802,
+    "idLoad": 2,
+    "idTeacher": 6,
+    "value": 68.0
+  },
+  {
+    "id": 10806,
+    "idLoad": 6,
+    "idTeacher": 6,
+    "value": 6.3
+  },
+  {
+    "id": 10902,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 68.0
+  },
+  {
+    "id": 10906,
+    "idLoad": 6,
+    "idTeacher": 8,
+    "value": 5.4
+  },
+  {
+    "id": 11002,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 68.0
+  },
+  {
+    "id": 11006,
+    "idLoad": 6,
+    "idTeacher": 10,
+    "value": 6.3
+  },
+  {
+    "id": 11101,
+    "idLoad": 1,
+    "idTeacher": 9,
+    "value": 32.0
+  },
+  {
+    "id": 11104,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 7.2
+  },
+  {
+    "id": 11105,
+    "idLoad": 5,
+    "idTeacher": 9,
+    "value": 16.0
+  },
+  {
+    "id": 11202,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 64.0
+  },
+  {
+    "id": 11302,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 32.0
+  },
+  {
+    "id": 11402,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 64.0
+  },
+  {
+    "id": 11515,
+    "idLoad": 15,
+    "idTeacher": 12,
+    "value": 7.3
+  },
+  {
+    "id": 11608,
+    "idLoad": 8,
+    "idTeacher": 10,
+    "value": 55.7
+  },
+  {
+    "id": 11702,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 32.0
+  },
+  {
+    "id": 11815,
+    "idLoad": 15,
+    "idTeacher": 12,
+    "value": 3.8
+  },
+  {
+    "id": 11908,
+    "idLoad": 8,
+    "idTeacher": 10,
+    "value": 29.2
+  },
+  {
+    "id": 12001,
+    "idLoad": 1,
+    "idTeacher": 10,
+    "value": 32.0
+  },
+  {
+    "id": 12004,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 7.2
+  },
+  {
+    "id": 12005,
+    "idLoad": 5,
+    "idTeacher": 10,
+    "value": 16.0
+  },
+  {
+    "id": 12101,
+    "idLoad": 1,
+    "idTeacher": 8,
+    "value": 48.0
+  },
+  {
+    "id": 12104,
+    "idLoad": 4,
+    "idTeacher": 8,
+    "value": 8.8
+  },
+  {
+    "id": 12105,
+    "idLoad": 5,
+    "idTeacher": 8,
+    "value": 16.0
+  },
+  {
+    "id": 12202,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 96.0
+  },
+  {
+    "id": 12302,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 48.0
+  },
+  {
+    "id": 12401,
+    "idLoad": 1,
+    "idTeacher": 16,
+    "value": 32.0
+  },
+  {
+    "id": 12404,
+    "idLoad": 4,
+    "idTeacher": 16,
+    "value": 7.2
+  },
+  {
+    "id": 12405,
+    "idLoad": 5,
+    "idTeacher": 16,
+    "value": 16.0
+  },
+  {
+    "id": 12502,
+    "idLoad": 2,
+    "idTeacher": 16,
+    "value": 64.0
+  },
+  {
+    "id": 12507,
+    "idLoad": 7,
+    "idTeacher": 16,
+    "value": 34.7
+  },
+  {
+    "id": 12615,
+    "idLoad": 15,
+    "idTeacher": 10,
+    "value": 7.3
+  },
+  {
+    "id": 12715,
+    "idLoad": 15,
+    "idTeacher": 10,
+    "value": 3.8
+  },
+  {
+    "id": 12802,
+    "idLoad": 2,
+    "idTeacher": 16,
+    "value": 32.0
+  },
+  {
+    "id": 12807,
+    "idLoad": 7,
+    "idTeacher": 16,
+    "value": 18.2
+  },
+  {
+    "id": 12901,
+    "idLoad": 1,
+    "idTeacher": 5,
+    "value": 32.0
+  },
+  {
+    "id": 12904,
+    "idLoad": 4,
+    "idTeacher": 5,
+    "value": 7.2
+  },
+  {
+    "id": 12905,
+    "idLoad": 5,
+    "idTeacher": 5,
+    "value": 16.0
+  },
+  {
+    "id": 13002,
+    "idLoad": 2,
+    "idTeacher": 5,
+    "value": 64.0
+  },
+  {
+    "id": 13102,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 32.0
+  },
+  {
+    "id": 13201,
+    "idLoad": 1,
+    "idTeacher": 10,
+    "value": 32.0
+  },
+  {
+    "id": 13204,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 3.2
+  },
+  {
+    "id": 13302,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 64.0
+  },
+  {
+    "id": 13303,
+    "idLoad": 3,
+    "idTeacher": 10,
+    "value": 16.0
+  },
+  {
+    "id": 13306,
+    "idLoad": 6,
+    "idTeacher": 10,
+    "value": 6.3
+  },
+  {
+    "id": 13402,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 32.0
+  },
+  {
+    "id": 13403,
+    "idLoad": 3,
+    "idTeacher": 10,
+    "value": 16.0
+  },
+  {
+    "id": 13506,
+    "idLoad": 6,
+    "idTeacher": 10,
+    "value": 3.3
+  },
+  {
+    "id": 13602,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 34.0
+  },
+  {
+    "id": 13606,
+    "idLoad": 6,
+    "idTeacher": 12,
+    "value": 6.0
+  },
+  {
+    "id": 13607,
+    "idLoad": 7,
+    "idTeacher": 12,
+    "value": 16.0
+  },
+  {
+    "id": 13702,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 34.0
+  },
+  {
+    "id": 13707,
+    "idLoad": 7,
+    "idTeacher": 3,
+    "value": 17.0
+  },
+  {
+    "id": 13801,
+    "idLoad": 1,
+    "idTeacher": 5,
+    "value": 17.0
+  },
+  {
+    "id": 13804,
+    "idLoad": 4,
+    "idTeacher": 5,
+    "value": 0.8
+  },
+  {
+    "id": 13902,
+    "idLoad": 2,
+    "idTeacher": 5,
+    "value": 34.0
+  },
+  {
+    "id": 13906,
+    "idLoad": 6,
+    "idTeacher": 5,
+    "value": 5.7
+  },
+  {
+    "id": 14002,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 34.0
+  },
+  {
+    "id": 14201,
+    "idLoad": 1,
+    "idTeacher": 1,
+    "value": 17.0
+  },
+  {
+    "id": 14204,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 11.2
+  },
+  {
+    "id": 14205,
+    "idLoad": 5,
+    "idTeacher": 1,
+    "value": 42.0
+  },
+  {
+    "id": 14302,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 68.0
+  },
+  {
+    "id": 14502,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 68.0
+  },
+  {
+    "id": 14615,
+    "idLoad": 15,
+    "idTeacher": 7,
+    "value": 7.0
+  },
+  {
+    "id": 14706,
+    "idLoad": 6,
+    "idTeacher": 12,
+    "value": 9.0
+  },
+  {
+    "id": 14802,
+    "idLoad": 2,
+    "idTeacher": 13,
+    "value": 68.0
+  },
+  {
+    "id": 14806,
+    "idLoad": 6,
+    "idTeacher": 13,
+    "value": 10.5
+  },
+  {
+    "id": 14902,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 68.0
+  },
+  {
+    "id": 15002,
+    "idLoad": 2,
+    "idTeacher": 13,
+    "value": 68.0
+  },
+  {
+    "id": 15102,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 34.0
+  },
+  {
+    "id": 15201,
+    "idLoad": 1,
+    "idTeacher": 13,
+    "value": 17.0
+  },
+  {
+    "id": 15204,
+    "idLoad": 4,
+    "idTeacher": 13,
+    "value": 5.7
+  },
+  {
+    "id": 15205,
+    "idLoad": 5,
+    "idTeacher": 13,
+    "value": 21.0
+  },
+  {
+    "id": 15301,
+    "idLoad": 1,
+    "idTeacher": 8,
+    "value": 34.0
+  },
+  {
+    "id": 15304,
+    "idLoad": 4,
+    "idTeacher": 8,
+    "value": 7.4
+  },
+  {
+    "id": 15305,
+    "idLoad": 5,
+    "idTeacher": 8,
+    "value": 21.0
+  },
+  {
+    "id": 15402,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 102.0
+  },
+  {
+    "id": 15502,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 51.0
+  },
+  {
+    "id": 15601,
+    "idLoad": 1,
+    "idTeacher": 12,
+    "value": 34.0
+  },
+  {
+    "id": 15604,
+    "idLoad": 4,
+    "idTeacher": 12,
+    "value": 3.4
+  },
+  {
+    "id": 15702,
+    "idLoad": 2,
+    "idTeacher": 6,
+    "value": 8.0
+  },
+  {
+    "id": 15704,
+    "idLoad": 4,
+    "idTeacher": 6,
+    "value": 6.0
+  },
+  {
+    "id": 15716,
+    "idLoad": 16,
+    "idTeacher": 6,
+    "value": 5.0
+  },
+  {
+    "id": 16001,
+    "idLoad": 1,
+    "idTeacher": 11,
+    "value": 4.0
+  },
+  {
+    "id": 16004,
+    "idLoad": 4,
+    "idTeacher": 11,
+    "value": 0.6
+  },
+  {
+    "id": 16102,
+    "idLoad": 2,
+    "idTeacher": 11,
+    "value": 8.0
+  },
+  {
+    "id": 16202,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 12.0
+  },
+  {
+    "id": 16204,
+    "idLoad": 4,
+    "idTeacher": 3,
+    "value": 6.0
+  },
+  {
+    "id": 16302,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 8.0
+  },
+  {
+    "id": 16304,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 5.1
+  },
+  {
+    "id": 16406,
+    "idLoad": 6,
+    "idTeacher": 10,
+    "value": 5.1
+  },
+  {
+    "id": 16502,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 8.0
+  },
+  {
+    "id": 16504,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 6.9
+  },
+  {
+    "id": 16506,
+    "idLoad": 6,
+    "idTeacher": 9,
+    "value": 6.9
+  },
+  {
+    "id": 16602,
+    "idLoad": 2,
+    "idTeacher": 14,
+    "value": 4.0
+  },
+  {
+    "id": 16604,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 3.0
+  },
+  {
+    "id": 16606,
+    "idLoad": 6,
+    "idTeacher": 14,
+    "value": 3.0
+  },
+  {
+    "id": 16702,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 12.0
+  },
+  {
+    "id": 16704,
+    "idLoad": 4,
+    "idTeacher": 8,
+    "value": 6.0
+  },
+  {
+    "id": 16716,
+    "idLoad": 16,
+    "idTeacher": 8,
+    "value": 5.0
+  },
+  {
+    "id": 16802,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 12.0
+  },
+  {
+    "id": 16804,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 6.0
+  },
+  {
+    "id": 16901,
+    "idLoad": 1,
+    "idTeacher": 7,
+    "value": 4.0
+  },
+  {
+    "id": 16904,
+    "idLoad": 4,
+    "idTeacher": 7,
+    "value": 1.2
+  },
+  {
+    "id": 17002,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 4.0
+  },
+  {
+    "id": 17003,
+    "idLoad": 3,
+    "idTeacher": 7,
+    "value": 2.0
+  },
+  {
+    "id": 17102,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 2.0
+  },
+  {
+    "id": 17103,
+    "idLoad": 3,
+    "idTeacher": 7,
+    "value": 2.0
+  },
+  {
+    "id": 17202,
+    "idLoad": 2,
+    "idTeacher": 1,
+    "value": 4.0
+  },
+  {
+    "id": 17204,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 4.2
+  },
+  {
+    "id": 17206,
+    "idLoad": 6,
+    "idTeacher": 1,
+    "value": 7.0
+  },
+  {
+    "id": 17302,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 8.0
+  },
+  {
+    "id": 17304,
+    "idLoad": 4,
+    "idTeacher": 12,
+    "value": 7.5
+  },
+  {
+    "id": 17306,
+    "idLoad": 6,
+    "idTeacher": 12,
+    "value": 7.5
+  },
+  {
+    "id": 17402,
+    "idLoad": 2,
+    "idTeacher": 11,
+    "value": 8.0
+  },
+  {
+    "id": 17404,
+    "idLoad": 4,
+    "idTeacher": 11,
+    "value": 7.5
+  },
+  {
+    "id": 17406,
+    "idLoad": 6,
+    "idTeacher": 11,
+    "value": 7.5
+  },
+  {
+    "id": 17502,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 4.0
+  },
+  {
+    "id": 17504,
+    "idLoad": 4,
+    "idTeacher": 3,
+    "value": 3.0
+  },
+  {
+    "id": 17606,
+    "idLoad": 6,
+    "idTeacher": 12,
+    "value": 3.0
+  },
+  {
+    "id": 17702,
+    "idLoad": 2,
+    "idTeacher": 6,
+    "value": 8.0
+  },
+  {
+    "id": 17704,
+    "idLoad": 4,
+    "idTeacher": 6,
+    "value": 5.7
+  },
+  {
+    "id": 17706,
+    "idLoad": 6,
+    "idTeacher": 6,
+    "value": 5.7
+  },
+  {
+    "id": 17807,
+    "idLoad": 7,
+    "idTeacher": 6,
+    "value": 31.4
+  },
+  {
+    "id": 17915,
+    "idLoad": 15,
+    "idTeacher": 12,
+    "value": 6.6
+  },
+  {
+    "id": 18004,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 2.0
+  },
+  {
+    "id": 18005,
+    "idLoad": 5,
+    "idTeacher": 14,
+    "value": 11.5
+  },
+  {
+    "id": 18102,
+    "idLoad": 2,
+    "idTeacher": 14,
+    "value": 8.0
+  },
+  {
+    "id": 18104,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 6.9
+  },
+  {
+    "id": 18116,
+    "idLoad": 16,
+    "idTeacher": 14,
+    "value": 5.8
+  },
+  {
+    "id": 18204,
+    "idLoad": 4,
+    "idTeacher": 7,
+    "value": 2.0
+  },
+  {
+    "id": 18205,
+    "idLoad": 5,
+    "idTeacher": 7,
+    "value": 10.0
+  },
+  {
+    "id": 18302,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 8.0
+  },
+  {
+    "id": 18304,
+    "idLoad": 4,
+    "idTeacher": 3,
+    "value": 6.0
+  },
+  {
+    "id": 18401,
+    "idLoad": 1,
+    "idTeacher": 1,
+    "value": 4.0
+  },
+  {
+    "id": 18404,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 7.8
+  },
+  {
+    "id": 18405,
+    "idLoad": 5,
+    "idTeacher": 1,
+    "value": 30.0
+  },
+  {
+    "id": 18501,
+    "idLoad": 1,
+    "idTeacher": 1,
+    "value": 17.0
+  },
+  {
+    "id": 18504,
+    "idLoad": 4,
+    "idTeacher": 1,
+    "value": 5.6
+  },
+  {
+    "id": 18505,
+    "idLoad": 5,
+    "idTeacher": 1,
+    "value": 15.5
+  },
+  {
+    "id": 18602,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 68.0
+  },
+  {
+    "id": 18702,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 34.0
+  },
+  {
+    "id": 18801,
+    "idLoad": 1,
+    "idTeacher": 4,
+    "value": 0.0
+  },
+  {
+    "id": 18804,
+    "idLoad": 4,
+    "idTeacher": 4,
+    "value": 0.0
+  },
+  {
+    "id": 18805,
+    "idLoad": 5,
+    "idTeacher": 4,
+    "value": 0.0
+  },
+  {
+    "id": 18806,
+    "idLoad": 6,
+    "idTeacher": 4,
+    "value": 2.7
+  },
+  {
+    "id": 18901,
+    "idLoad": 1,
+    "idTeacher": 4,
+    "value": 0.0
+  },
+  {
+    "id": 18902,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 34.0
+  },
+  {
+    "id": 18904,
+    "idLoad": 4,
+    "idTeacher": 4,
+    "value": 0.0
+  },
+  {
+    "id": 18905,
+    "idLoad": 5,
+    "idTeacher": 4,
+    "value": 0.0
+  },
+  {
+    "id": 19001,
+    "idLoad": 1,
+    "idTeacher": 4,
+    "value": 4.0
+  },
+  {
+    "id": 19004,
+    "idLoad": 4,
+    "idTeacher": 4,
+    "value": 0.6
+  },
+  {
+    "id": 19102,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 12.0
+  },
+  {
+    "id": 19104,
+    "idLoad": 4,
+    "idTeacher": 4,
+    "value": 6.0
+  },
+  {
+    "id": 19106,
+    "idLoad": 6,
+    "idTeacher": 4,
+    "value": 6.0
+  },
+  {
+    "id": 19116,
+    "idLoad": 16,
+    "idTeacher": 4,
+    "value": 5.0
+  },
+  {
+    "id": 19204,
+    "idLoad": 4,
+    "idTeacher": 4,
+    "value": 2.0
+  },
+  {
+    "id": 19205,
+    "idLoad": 5,
+    "idTeacher": 4,
+    "value": 9.5
+  },
+  {
+    "id": 19302,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 8.0
+  },
+  {
+    "id": 19304,
+    "idLoad": 4,
+    "idTeacher": 4,
+    "value": 5.7
+  },
+  {
+    "id": 19316,
+    "idLoad": 16,
+    "idTeacher": 4,
+    "value": 4.8
+  },
+  {
+    "id": 19417,
+    "idLoad": 17,
+    "idTeacher": 12,
+    "value": 108.0
+  },
+  {
+    "id": 19506,
+    "idLoad": 6,
+    "idTeacher": 12,
+    "value": 8.4
+  },
+  {
+    "id": 19606,
+    "idLoad": 6,
+    "idTeacher": 12,
+    "value": 4.2
+  },
+  {
+    "id": 19715,
+    "idLoad": 15,
+    "idTeacher": 3,
+    "value": 9.8
+  },
+  {
+    "id": 19802,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 68.0
+  },
+  {
+    "id": 19808,
+    "idLoad": 8,
+    "idTeacher": 9,
+    "value": 74.2
+  },
+  {
+    "id": 20015,
+    "idLoad": 15,
+    "idTeacher": 9,
+    "value": 5.2
+  },
+  {
+    "id": 20108,
+    "idLoad": 8,
+    "idTeacher": 3,
+    "value": 39.8
+  },
+  {
+    "id": 20202,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 34.0
+  },
+  {
+    "id": 20401,
+    "idLoad": 1,
+    "idTeacher": 9,
+    "value": 34.0
+  },
+  {
+    "id": 20404,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 7.4
+  },
+  {
+    "id": 20405,
+    "idLoad": 5,
+    "idTeacher": 9,
+    "value": 21.5
+  },
+  {
+    "id": 20502,
+    "idLoad": 2,
+    "idTeacher": 13,
+    "value": 68.0
+  },
+  {
+    "id": 20602,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 34.0
+  },
+  {
+    "id": 20701,
+    "idLoad": 1,
+    "idTeacher": 13,
+    "value": 34.0
+  },
+  {
+    "id": 20704,
+    "idLoad": 4,
+    "idTeacher": 13,
+    "value": 7.4
+  },
+  {
+    "id": 20705,
+    "idLoad": 5,
+    "idTeacher": 13,
+    "value": 21.5
+  },
+  {
+    "id": 20802,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 34.0
+  },
+  {
+    "id": 20806,
+    "idLoad": 6,
+    "idTeacher": 10,
+    "value": 8.4
+  },
+  {
+    "id": 20902,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 17.0
+  },
+  {
+    "id": 20906,
+    "idLoad": 6,
+    "idTeacher": 10,
+    "value": 4.5
+  },
+  {
+    "id": 21001,
+    "idLoad": 1,
+    "idTeacher": 10,
+    "value": 34.0
+  },
+  {
+    "id": 21004,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 3.4
+  },
+  {
+    "id": 21102,
+    "idLoad": 2,
+    "idTeacher": 9,
+    "value": 68.0
+  },
+  {
+    "id": 21106,
+    "idLoad": 6,
+    "idTeacher": 9,
+    "value": 8.4
+  },
+  {
+    "id": 21202,
+    "idLoad": 2,
+    "idTeacher": 4,
+    "value": 34.0
+  },
+  {
+    "id": 21206,
+    "idLoad": 6,
+    "idTeacher": 4,
+    "value": 4.5
+  },
+  {
+    "id": 21301,
+    "idLoad": 1,
+    "idTeacher": 9,
+    "value": 34.0
+  },
+  {
+    "id": 21304,
+    "idLoad": 4,
+    "idTeacher": 9,
+    "value": 3.4
+  },
+  {
+    "id": 21401,
+    "idLoad": 1,
+    "idTeacher": 7,
+    "value": 32.0
+  },
+  {
+    "id": 21404,
+    "idLoad": 4,
+    "idTeacher": 7,
+    "value": 7.2
+  },
+  {
+    "id": 21405,
+    "idLoad": 5,
+    "idTeacher": 7,
+    "value": 16.0
+  },
+  {
+    "id": 21502,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 64.0
+  },
+  {
+    "id": 21602,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 32.0
+  },
+  {
+    "id": 21701,
+    "idLoad": 1,
+    "idTeacher": 14,
+    "value": 32.0
+  },
+  {
+    "id": 21704,
+    "idLoad": 4,
+    "idTeacher": 14,
+    "value": 3.2
+  },
+  {
+    "id": 21803,
+    "idLoad": 3,
+    "idTeacher": 14,
+    "value": 16.0
+  },
+  {
+    "id": 21806,
+    "idLoad": 6,
+    "idTeacher": 14,
+    "value": 6.3
+  },
+  {
+    "id": 21903,
+    "idLoad": 3,
+    "idTeacher": 14,
+    "value": 16.0
+  },
+  {
+    "id": 21906,
+    "idLoad": 6,
+    "idTeacher": 14,
+    "value": 3.3
+  },
+  {
+    "id": 22001,
+    "idLoad": 1,
+    "idTeacher": 10,
+    "value": 32.0
+  },
+  {
+    "id": 22004,
+    "idLoad": 4,
+    "idTeacher": 10,
+    "value": 7.2
+  },
+  {
+    "id": 22005,
+    "idLoad": 5,
+    "idTeacher": 10,
+    "value": 16.0
+  },
+  {
+    "id": 22102,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 64.0
+  },
+  {
+    "id": 22202,
+    "idLoad": 2,
+    "idTeacher": 10,
+    "value": 32.0
+  },
+  {
+    "id": 22301,
+    "idLoad": 1,
+    "idTeacher": 6,
+    "value": 32.0
+  },
+  {
+    "id": 22304,
+    "idLoad": 4,
+    "idTeacher": 6,
+    "value": 7.2
+  },
+  {
+    "id": 22305,
+    "idLoad": 5,
+    "idTeacher": 6,
+    "value": 16.0
+  },
+  {
+    "id": 22402,
+    "idLoad": 2,
+    "idTeacher": 6,
+    "value": 32.0
+  },
+  {
+    "id": 22403,
+    "idLoad": 3,
+    "idTeacher": 6,
+    "value": 16.0
+  },
+  {
+    "id": 22502,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 16.0
+  },
+  {
+    "id": 22503,
+    "idLoad": 3,
+    "idTeacher": 3,
+    "value": 16.0
+  },
+  {
+    "id": 22601,
+    "idLoad": 1,
+    "idTeacher": 8,
+    "value": 64.0
+  },
+  {
+    "id": 22604,
+    "idLoad": 4,
+    "idTeacher": 8,
+    "value": 10.4
+  },
+  {
+    "id": 22605,
+    "idLoad": 5,
+    "idTeacher": 8,
+    "value": 16.0
+  },
+  {
+    "id": 22702,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 64.0
+  },
+  {
+    "id": 22802,
+    "idLoad": 2,
+    "idTeacher": 8,
+    "value": 32.0
+  },
+  {
+    "id": 22915,
+    "idLoad": 15,
+    "idTeacher": 3,
+    "value": 7.3
+  },
+  {
+    "id": 23002,
+    "idLoad": 2,
+    "idTeacher": 13,
+    "value": 64.0
+  },
+  {
+    "id": 23008,
+    "idLoad": 8,
+    "idTeacher": 13,
+    "value": 55.7
+  },
+  {
+    "id": 23115,
+    "idLoad": 15,
+    "idTeacher": 13,
+    "value": 3.8
+  },
+  {
+    "id": 23202,
+    "idLoad": 2,
+    "idTeacher": 3,
+    "value": 32.0
+  },
+  {
+    "id": 23208,
+    "idLoad": 8,
+    "idTeacher": 3,
+    "value": 29.2
+  },
+  {
+    "id": 23301,
+    "idLoad": 1,
+    "idTeacher": 13,
+    "value": 32.0
+  },
+  {
+    "id": 23304,
+    "idLoad": 4,
+    "idTeacher": 13,
+    "value": 7.2
+  },
+  {
+    "id": 23305,
+    "idLoad": 5,
+    "idTeacher": 13,
+    "value": 16.0
+  },
+  {
+    "id": 23410,
+    "idLoad": 10,
+    "idTeacher": 6,
+    "value": 48.0
+  },
+  {
+    "id": 23510,
+    "idLoad": 10,
+    "idTeacher": 6,
+    "value": 48.0
+  },
+  {
+    "id": 23601,
+    "idLoad": 1,
+    "idTeacher": 12,
+    "value": 34.0
+  },
+  {
+    "id": 23604,
+    "idLoad": 4,
+    "idTeacher": 12,
+    "value": 3.4
+  },
+  {
+    "id": 23702,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 32.0
+  },
+  {
+    "id": 23706,
+    "idLoad": 6,
+    "idTeacher": 12,
+    "value": 8.4
+  },
+  {
+    "id": 23802,
+    "idLoad": 2,
+    "idTeacher": 12,
+    "value": 16.0
+  },
+  {
+    "id": 23806,
+    "idLoad": 6,
+    "idTeacher": 12,
+    "value": 4.5
+  },
+  {
+    "id": 23902,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 34.0
+  },
+  {
+    "id": 24002,
+    "idLoad": 2,
+    "idTeacher": 7,
+    "value": 17.0
+  },
+  {
+    "id": 24101,
+    "idLoad": 1,
+    "idTeacher": 7,
+    "value": 34.0
+  },
+  {
+    "id": 24104,
+    "idLoad": 4,
+    "idTeacher": 7,
+    "value": 7.4
+  },
+  {
+    "id": 24105,
+    "idLoad": 5,
+    "idTeacher": 7,
+    "value": 21.5
+  }
+]

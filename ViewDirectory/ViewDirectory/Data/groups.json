@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "МГ-11",
+    "idFaculty": 1
+  },
+  {
+    "id": 2,
+    "name": "МГ-21",
+    "idFaculty": 1
+  },
+  {
+    "id": 3,
+    "name": "У-11",
+    "idFaculty": 1
+  },
+  {
+    "id": 4,
+    "name": "ОП-11",
+    "idFaculty": 1
+  },
+  {
+    "id": 5,
+    "name": "У-21",
+    "idFaculty": 1
+  },
+  {
+    "id": 2,
+    "name": "ЭС-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 4,
+    "name": "АП-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 6,
+    "name": "ТЭ-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 8,
+    "name": "Д-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 10,
+    "name": "АП-21",
+    "idFaculty": 2
+  },
+  {
+    "id": 12,
+    "name": "АП-31",
+    "idFaculty": 2
+  },
+  {
+    "id": 14,
+    "name": "РТ-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 16,
+    "name": "ГА-21",
+    "idFaculty": 2
+  },
+  {
+    "id": 18,
+    "name": "ТМ-21",
+    "idFaculty": 2
+  },
+  {
+    "id": 20,
+    "name": "ТМ-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 22,
+    "name": "М-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 24,
+    "name": "ГА-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 26,
+    "name": "НР-11",
+    "idFaculty": 2
+  },
+  {
+    "id": 28,
+    "name": "НР-21",
+    "idFaculty": 2
+  },
+  {
+    "id": 3,
+    "name": "ЭС-11",
+    "idFaculty": 3
+  },
+  {
+    "id": 6,
+    "name": "ТЭ-11",
+    "idFaculty": 3
+  },
+  {
+    "id": 9,
+    "name": "ЭС-21",
+    "idFaculty": 3
+  },
+  {
+    "id": 12,
+    "name": "ТЭ-21",
+    "idFaculty": 3
+  },
+  {
+    "id": 15,
+    "name": "ГА-11",
+    "idFaculty": 3
+  },
+  {
+    "id": 18,
+    "name": "ЭП-11",
+    "idFaculty": 3
+  },
+  {
+    "id": 21,
+    "name": "Э-11",
+    "idFaculty": 3
+  },
+  {
+    "id": 24,
+    "name": "Э-12",
+    "idFaculty": 3
+  },
+  {
+    "id": 27,
+    "name": "ЭН-11",
+    "idFaculty": 3
+  },
+  {
+    "id": 30,
+    "name": "НР-11",
+    "idFaculty": 3
+  },
+  {
+    "id": 4,
+    "name": "Д-11",
+    "idFaculty": 4
+  },
+  {
+    "id": 8,
+    "name": "ТТ-11",
+    "idFaculty": 4
+  },
+  {
+    "id": 12,
+    "name": "С-21",
+    "idFaculty": 4
+  },
+  {
+    "id": 16,
+    "name": "К-11",
+    "idFaculty": 4
+  },
+  {
+    "id": 20,
+    "name": "М-11",
+    "idFaculty": 4
+  },
+  {
+    "id": 5,
+    "name": "ЭП-11",
+    "idFaculty": 5
+  },
+  {
+    "id": 10,
+    "name": "ИП-31",
+    "idFaculty": 5
+  },
+  {
+    "id": 15,
+    "name": "ИП-21",
+    "idFaculty": 5
+  },
+  {
+    "id": 20,
+    "name": "ИП-32",
+    "idFaculty": 5
+  },
+  {
+    "id": 25,
+    "name": "ИП-11",
+    "idFaculty": 5
+  },
+  {
+    "id": 30,
+    "name": "ИП-22",
+    "idFaculty": 5
+  },
+  {
+    "id": 35,
+    "name": "ИП-12",
+    "idFaculty": 5
+  },
+  {
+    "id": 6,
+    "name": "ЗТМ-11",
+    "idFaculty": 6
+  },
+  {
+    "id": 12,
+    "name": "ЗТМ-11с",
+    "idFaculty": 6
+  },
+  {
+    "id": 18,
+    "name": "ЗТМ-22с",
+    "idFaculty": 6
+  },
+  {
+    "id": 24,
+    "name": "ЗЭ-11с",
+    "idFaculty": 6
+  },
+  {
+    "id": 30,
+    "name": "ЗТМ-12с",
+    "idFaculty": 6
+  },
+  {
+    "id": 36,
+    "name": "ЗЭ-12с",
+    "idFaculty": 6
+  },
+  {
+    "id": 42,
+    "name": "ЗТЭ-11с",
+    "idFaculty": 6
+  },
+  {
+    "id": 48,
+    "name": "ЗТМ-21",
+    "idFaculty": 6
+  },
+  {
+    "id": 54,
+    "name": "ЗЭ-13с",
+    "idFaculty": 6
+  },
+  {
+    "id": 60,
+    "name": "ЗТМ-21с",
+    "idFaculty": 6
+  },
+  {
+    "id": 66,
+    "name": "ЗНР-11",
+    "idFaculty": 6
+  },
+  {
+    "id": 72,
+    "name": "ЗТМ_12с",
+    "idFaculty": 6
+  },
+  {
+    "id": 78,
+    "name": "ЗНР-21",
+    "idFaculty": 6
+  },
+  {
+    "id": 84,
+    "name": "ЗТЭ-11",
+    "idFaculty": 6
+  },
+  {
+    "id": 90,
+    "name": "ЗЭН-11с",
+    "idFaculty": 6
+  },
+  {
+    "id": 96,
+    "name": "ЗМД-11с",
+    "idFaculty": 6
+  },
+  {
+    "id": 102,
+    "name": "ЗС-11с",
+    "idFaculty": 6
+  },
+  {
+    "id": 108,
+    "name": "ЗМД-11",
+    "idFaculty": 6
+  },
+  {
+    "id": 114,
+    "name": "ЗЭ-21",
+    "idFaculty": 6
+  },
+  {
+    "id": 120,
+    "name": "ЗЭ-11",
+    "idFaculty": 6
+  },
+  {
+    "id": 7,
+    "name": "ЗУ-11с",
+    "idFaculty": 7
+  },
+  {
+    "id": 14,
+    "name": "ЗУ-21",
+    "idFaculty": 7
+  },
+  {
+    "id": 21,
+    "name": "ЗУ-11",
+    "idFaculty": 7
+  }
+]
