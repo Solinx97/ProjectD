@@ -13,6 +13,25 @@
     }
 });
 
+document.addEventListener("click", (event) => {
+    let dataContentAttribute = event.target.getAttribute("data-content");
+    let dataValueAttribute = event.target.getAttribute("data-value");
+    let dataBidsAttribute = event.target.getAttribute("data-bids");
+
+    switch (dataContentAttribute) {
+        case "bid-information":
+            let bidInformationItem = document.querySelectorAll(`.bid-information-${+dataBidsAttribute}`)[+dataValueAttribute];
+
+            if (bidInformationItem.getAttribute("hidden") != undefined)
+                bidInformationItem.removeAttribute("hidden");
+            else
+                bidInformationItem.setAttribute("hidden", true);
+            break;
+        default:
+            break;
+    }
+});
+
 function ajaxQuery(ajaxType, ajaxUrl, loadElement, dataDictionary, resultId) {
     $.ajax({
         type: ajaxType,
@@ -33,7 +52,6 @@ function ajaxQuery(ajaxType, ajaxUrl, loadElement, dataDictionary, resultId) {
 
 function targetClear() {
     let allGroups = document.querySelectorAll(".group");
-    console.log(allGroups.length);
     for (var i = 0; i < allGroups.length; i++) {
         allGroups[i].classList.remove("target");
     }

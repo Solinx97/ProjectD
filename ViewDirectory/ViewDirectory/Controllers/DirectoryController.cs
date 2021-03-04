@@ -26,9 +26,9 @@ namespace ViewDirectory.Controllers
             var groupLoads = result.GroupLoads.Where(val => val.GroupId == groupId);
             var unitOfLoads = result.UnitOfLoads.Where(val => groupLoads.Any(v => v.UnitOfLoadId == val.Id));
 
-            var loads = new List<Loads>();
-            var subjects = new List<Subjects>();
-            var teachers = new List<Teachers>();
+            var loads = new List<Load>();
+            var subjects = new List<Subject>();
+            var teachers = new List<Teacher>();
 
             foreach (var item in unitOfLoads)
             {

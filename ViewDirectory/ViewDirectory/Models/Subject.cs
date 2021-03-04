@@ -1,6 +1,6 @@
 ﻿namespace ViewDirectory.Models
 {
-    public class Loads
+    public class Subject
     {
         public int Id { get; set; }
 

@@ -4,15 +4,15 @@
     {
         public Faculties[] Faculties { get; set; }
 
-        public Groups[] Groups { get; set; }
+        public Group[] Groups { get; set; }
 
         public GroupLoads[] GroupLoads { get; set; }
 
-        public Loads[] Loads { get; set; }
+        public Load[] Loads { get; set; }
 
-        public Subjects[] Subjects { get; set; }
+        public Subject[] Subjects { get; set; }
 
-        public Teachers[] Teachers { get; set; }
+        public Teacher[] Teachers { get; set; }
 
         public UnitOfLoads[] UnitOfLoads { get; set; }
     }

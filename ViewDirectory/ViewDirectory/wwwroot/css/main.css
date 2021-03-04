@@ -17,3 +17,9 @@
     transform: scale(1.25);
     color: green;
 }
+
+.card {
+    box-shadow: 5px 5px 5px 5px gray;
+    padding: 25px;
+    margin: 25px;
+}
