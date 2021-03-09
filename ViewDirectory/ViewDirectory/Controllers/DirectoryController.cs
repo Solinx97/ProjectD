@@ -9,10 +9,12 @@ namespace ViewDirectory.Controllers
 {
     public class DirectoryController : Controller
     {
+        private const string PathToData = @"Data\data-0.json";
+
         [HttpGet]
         public ActionResult Show()
         {
-            var dataTransfer = System.IO.File.ReadAllText(Path.GetFullPath(@"Data\data-0.json"));
+            var dataTransfer = System.IO.File.ReadAllText(Path.GetFullPath(PathToData));
             var result = JsonConvert.DeserializeObject<DataTransfer>(dataTransfer);
 
             return View(result);
@@ -21,7 +23,7 @@ namespace ViewDirectory.Controllers
         [HttpGet]
         public ActionResult ShowLoads(int groupId)
         {
-            var dataTransfer = System.IO.File.ReadAllText(Path.GetFullPath(@"Data\data-0.json"));
+            var dataTransfer = System.IO.File.ReadAllText(Path.GetFullPath(PathToData));
             var result = JsonConvert.DeserializeObject<DataTransfer>(dataTransfer);
             var groupLoads = result.GroupLoads.Where(val => val.GroupId == groupId);
             var unitOfLoads = result.UnitOfLoads.Where(val => groupLoads.Any(v => v.UnitOfLoadId == val.Id));

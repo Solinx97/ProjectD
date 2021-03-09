@@ -1,0 +1,66 @@
+﻿@model IndividualPlanOnTerm
+
+<div class="flex-row__flex-start">
+    <div>
+        @foreach (var item in Model.Bids)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Faculties)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Groups)
+        {
+            <div>@item.Name</div>
+            <div>@item.Number</div>
+            <div>@item.StudentsNumber</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Months)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.PlanTimeTypes)
+        {
+            <div>@item.Name</div>
+            <div>@item.TotalPlanTime</div>
+            <div>@item.FactPlanTime</div>
+            <div>@item.DiffPlanTime</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.PlanTimes)
+        {
+            <div>@item.TimePlan</div>
+            <div>@item.TimeFact</div>
+            <div>@item.TimeDiff</div>
+            <div>@item.SubjectPlan</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Subjects)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Teachers)
+        {
+            <div>@item.FirstName</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Terms)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+</div>

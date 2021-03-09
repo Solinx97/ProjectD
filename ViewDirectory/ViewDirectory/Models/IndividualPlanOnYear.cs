@@ -1,6 +1,6 @@
 ﻿namespace ViewDirectory.Models
 {
-    public class TeacherBids
+    public class IndividualPlanOnYear
     {
         public string TeacherName { get; set; }
 
