@@ -1,38 +1,66 @@
-﻿@model IndividualPlanOnYear[]
+﻿@model IndividualPlanOnTerm
 
-@for (int j = 0; j < Model.Length; j++)
-{
-    <div class="flex-row__flex-start">
-        <div>Преподаватель: @Model[j].TeacherName</div>
-        @foreach (var bid in Model[j].Bids)
+<div class="flex-row__flex-start">
+    <div>
+        @foreach (var item in Model.Bids)
         {
-            <div>
-                <div>Значение показателя: @bid.BidValue</div>
-                <div>
-                    @for (int i = 0; i < bid.Rows.Length; i++)
-                    {
-                        <div class="card">
-                            <div>Предмет: @bid.Rows[i].Subject.Name</div>
-                            <div>Факультет: @bid.Rows[i].FacultyName</div>
-                            <div>Студентов: @bid.Rows[i].StudentsCount</div>
-                            <div>Срок: @bid.Rows[i].Term</div>
-                            <div>Всего часов: @bid.Rows[i].TotalHours</div>
-                            <button data-content="bid-information" data-bids="@j" data-value="@i">Доп. информация</button>
-                            <div class="bid-information-@j" hidden>
-                                @foreach (var group in bid.Rows[i].Group)
-                                {
-                                    <div>Группа: @group.Name</div>
-                                }
-                                @foreach (var cell in bid.Rows[i].Cells)
-                                {
-                                    <div>Название ячейки: @cell.Name</div>
-                                    <div>Значение: @cell.Value</div>
-                                }
-                            </div>
-                        </div>
-                    }
-                </div>
-            </div>
+            <div>@item.Name</div>
         }
     </div>
-}
+    <div>
+        @foreach (var item in Model.Faculties)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Groups)
+        {
+            <div>@item.Name</div>
+            <div>@item.Number</div>
+            <div>@item.StudentsNumber</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Months)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.PlanTimeTypes)
+        {
+            <div>@item.Name</div>
+            <div>@item.TotalPlanTime</div>
+            <div>@item.FactPlanTime</div>
+            <div>@item.DiffPlanTime</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.PlanTimes)
+        {
+            <div>@item.TimePlan</div>
+            <div>@item.TimeFact</div>
+            <div>@item.TimeDiff</div>
+            <div>@item.SubjectPlan</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Subjects)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Teachers)
+        {
+            <div>@item.FirstName</div>
+        }
+    </div>
+    <div>
+        @foreach (var item in Model.Terms)
+        {
+            <div>@item.Name</div>
+        }
+    </div>
+</div>

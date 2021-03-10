@@ -1,19 +1,4 @@
-﻿document.addEventListener("mouseover", (event) => {
-    let dataContentAttribute = event.target.getAttribute("data-content");
-    let dataValueAttribute = event.target.getAttribute("data-value");;
-
-    switch (dataContentAttribute) {
-        case "group":
-            targetClear();
-            event.target.classList.add("target");
-            ajaxQuery("GET", "/Directory/ShowLoads", undefined, { "groupId": +dataValueAttribute }, "#result");
-            break;
-        default:
-            break;
-    }
-});
-
-document.addEventListener("click", (event) => {
+﻿document.addEventListener("click", (event) => {
     let dataContentAttribute = event.target.getAttribute("data-content");
     let dataValueAttribute = event.target.getAttribute("data-value");
     let dataBidsAttribute = event.target.getAttribute("data-bids");
@@ -56,3 +41,28 @@ function targetClear() {
         allGroups[i].classList.remove("target");
     }
 }
+
+function showFaculties() {
+    let selFaculty = document.querySelector("#facultiesId");
+    if (selFaculty != undefined) {
+        ajaxQuery("GET", "/Directory/GetGroups", undefined, { "facultyId": +selFaculty.value }, "#result-1");
+        selFaculty.onchange = function () {
+            ajaxQuery("GET", "/Directory/GetGroups", undefined, { "facultyId": +selFaculty.value }, "#result-1");
+        };
+    }
+}
+
+showFaculties();
+
+function showBids() {
+    let setTeacher = document.querySelector("#teachersId");
+
+    if (setTeacher != undefined) {
+        ajaxQuery("GET", "/IndividualPlanTerm/GetBids", undefined, { "index": 0 }, "#result-2");
+        setTeacher.onchange = function () {
+            ajaxQuery("GET", "/IndividualPlanTerm/GetBids", undefined, { "index": setTeacher.selectedIndex }, "#result-2");
+        };
+    }
+}
+
+showBids();

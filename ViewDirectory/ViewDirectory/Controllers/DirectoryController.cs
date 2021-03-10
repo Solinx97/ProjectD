@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
@@ -10,18 +11,24 @@ namespace ViewDirectory.Controllers
     public class DirectoryController : Controller
     {
         private const string PathToData = @"Data\data-0.json";
+        private readonly DataTransfer _data;
+
+        public DirectoryController()
+        {
+            var dataTransfer = System.IO.File.ReadAllText(Path.GetFullPath(PathToData));
+            _data = JsonConvert.DeserializeObject<DataTransfer>(dataTransfer);
+        }
 
         [HttpGet]
         public ActionResult Show()
         {
-            var dataTransfer = System.IO.File.ReadAllText(Path.GetFullPath(PathToData));
-            var result = JsonConvert.DeserializeObject<DataTransfer>(dataTransfer);
+            ViewBag.Faculties = new SelectList(_data.Faculties, "Id", "Name");
 
-            return View(result);
+            return View(_data);
         }
 
         [HttpGet]
-        public ActionResult ShowLoads(int groupId)
+        public ActionResult GetLoads(int groupId)
         {
             var dataTransfer = System.IO.File.ReadAllText(Path.GetFullPath(PathToData));
             var result = JsonConvert.DeserializeObject<DataTransfer>(dataTransfer);
@@ -44,6 +51,15 @@ namespace ViewDirectory.Controllers
             ViewData["teachers"] = teachers;
 
             return PartialView(unitOfLoads.ToList());
+        }
+
+        [HttpGet]
+        public ActionResult GetGroups(int facultyId)
+        {
+            var groups = _data.Groups.Where(val => val.FacultyId == facultyId).ToList();
+            ViewBag.Groups = new SelectList(groups, "Id", "Name");
+
+            return PartialView();
         }
     }
 }

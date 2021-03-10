@@ -1,7 +1,13 @@
 ﻿.flex-row__flex-start {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-start;
+}
+
+.flex-column__center {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
 .container__facilties_groups {
@@ -22,4 +28,8 @@
     box-shadow: 5px 5px 5px 5px gray;
     padding: 25px;
     margin: 25px;
+}
+
+.space {
+    margin: 20px;
 }
