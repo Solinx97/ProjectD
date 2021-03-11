@@ -1,0 +1,7 @@
+﻿@model IndividualPlanOnYear[]
+
+@Html.DropDownList("teachersId", ViewBag.Teachers as SelectList, new { @class = "btn btn-secondary dropdown-toggle space" })
+@for (int j = 0; j < Model.Length; j++)
+{
+    <div id="result-2"></div>
+}
