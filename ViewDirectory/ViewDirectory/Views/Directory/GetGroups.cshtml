@@ -3,7 +3,6 @@
 <script>
     function showGroups() {
         let selGroup = document.querySelector("#groupsId");
-        console.log(selGroup);
         ajaxQuery("GET", "/Directory/GetLoads", undefined, { "groupId": +selGroup.value }, "#result");
         selGroup.onchange = function () {
             ajaxQuery("GET", "/Directory/GetLoads", undefined, { "groupId": +selGroup.value }, "#result");
