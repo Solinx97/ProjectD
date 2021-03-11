@@ -1,0 +1,2074 @@
+[
+  {
+    "TeacherName": "Чабуркина С.А.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 3,
+                "Name": "У-11",
+                "FacultyId": 1
+              },
+              {
+                "Id": 4,
+                "Name": "ОП-11",
+                "FacultyId": 1
+              },
+              {
+                "Id": 1,
+                "Name": "МГ-11",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 34
+              },
+              {
+                "Name": "кон",
+                "Value": 11.1
+              },
+              {
+                "Name": "эк",
+                "Value": 20
+              }
+            ],
+            "TotalHours": 65.1,
+            "StudentsCount": 40,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 1,
+                "Name": "МГ-11",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 34
+              }
+            ],
+            "TotalHours": 34,
+            "StudentsCount": 14,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 17,
+                "Name": "ГА-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 18,
+                "Name": "НР-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 15,
+                "Name": "ТМ-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 34
+              },
+              {
+                "Name": "кон",
+                "Value": 14.8
+              },
+              {
+                "Name": "эк",
+                "Value": 42
+              }
+            ],
+            "TotalHours": 90.8,
+            "StudentsCount": 95,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 19,
+                "Name": "НР-21",
+                "FacultyId": 2
+              },
+              {
+                "Id": 13,
+                "Name": "ГА-21",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 17
+              },
+              {
+                "Name": "кон",
+                "Value": 3.2
+              }
+            ],
+            "TotalHours": 20.2,
+            "StudentsCount": 88,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 39,
+                "Name": "ИП-11",
+                "FacultyId": 5
+              },
+              {
+                "Id": 41,
+                "Name": "ИП-12",
+                "FacultyId": 5
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "зач",
+                "Value": 5.7
+              }
+            ],
+            "TotalHours": 5.7,
+            "StudentsCount": 19,
+            "Term": 1,
+            "FacultyName": "ФАИС"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 41,
+                "Name": "ИП-12",
+                "FacultyId": 5
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "зач",
+                "Value": 5.7
+              }
+            ],
+            "TotalHours": 5.7,
+            "StudentsCount": 19,
+            "Term": 1,
+            "FacultyName": "ФАИС"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 59,
+                "Name": "ЗМД-11",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 22,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 42,
+                "Name": "ЗТМ-11",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 22,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 52,
+                "Name": "ЗНР-11",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 22,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 60,
+                "Name": "ЗЭ-21",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 34
+              }
+            ],
+            "TotalHours": 34,
+            "StudentsCount": 28,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 60,
+                "Name": "ЗЭ-21",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "зач",
+                "Value": 6.6
+              }
+            ],
+            "TotalHours": 6.6,
+            "StudentsCount": 22,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 54,
+                "Name": "ЗНР-21",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "зач",
+                "Value": 8.4
+              }
+            ],
+            "TotalHours": 8.4,
+            "StudentsCount": 28,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Трусевич И.В.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 3,
+                "Name": "У-11",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 52
+              }
+            ],
+            "TotalHours": 52,
+            "StudentsCount": 17,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 2,
+                "Name": "МГ-21",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 26
+              }
+            ],
+            "TotalHours": 26,
+            "StudentsCount": 15,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 5,
+                "Name": "У-21",
+                "FacultyId": 1
+              },
+              {
+                "Id": 2,
+                "Name": "МГ-21",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 26
+              }
+            ],
+            "TotalHours": 26,
+            "StudentsCount": 14,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 17,
+                "Name": "ГА-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 18,
+                "Name": "НР-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 6,
+                "Name": "ЭС-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 8,
+                "Name": "ТЭ-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 7,
+                "Name": "АП-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 12,
+                "Name": "РТ-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 22
+              },
+              {
+                "Name": "кон",
+                "Value": 7.4
+              },
+              {
+                "Name": "эк",
+                "Value": 14.5
+              }
+            ],
+            "TotalHours": 43.9,
+            "StudentsCount": 29,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Олизарович Я.М.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 1,
+                "Name": "МГ-11",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 34
+              }
+            ],
+            "TotalHours": 34,
+            "StudentsCount": 9,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 5,
+                "Name": "У-21",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 6
+              }
+            ],
+            "TotalHours": 6,
+            "StudentsCount": 17,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 33,
+                "Name": "К-11",
+                "FacultyId": 4
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 26
+              }
+            ],
+            "TotalHours": 26,
+            "StudentsCount": 10,
+            "Term": 1,
+            "FacultyName": "МТФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 13,
+                "Name": "ГА-21",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 3,
+              "Name": "Информатикаи компьютерная графика"
+            },
+            "Group": [
+              {
+                "Id": 25,
+                "Name": "ЭП-11",
+                "FacultyId": 3
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 51
+              }
+            ],
+            "TotalHours": 51,
+            "StudentsCount": 18,
+            "Term": 1,
+            "FacultyName": "ЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 6,
+              "Name": "Основы web-программирования"
+            },
+            "Group": [
+              {
+                "Id": 48,
+                "Name": "ЗТЭ-11с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 17
+              }
+            ],
+            "TotalHours": 17,
+            "StudentsCount": 14,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 62,
+                "Name": "ЗУ-11с",
+                "FacultyId": 7
+              },
+              {
+                "Id": 64,
+                "Name": "ЗУ-11",
+                "FacultyId": 7
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 8
+              },
+              {
+                "Name": "кон",
+                "Value": 3
+              }
+            ],
+            "TotalHours": 11,
+            "StudentsCount": 10,
+            "Term": 1,
+            "FacultyName": "ЗФЭ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Ермолинская Н.В.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 1,
+                "Name": "МГ-11",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 4
+              }
+            ],
+            "TotalHours": 4,
+            "StudentsCount": 17,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 2,
+                "Name": "МГ-21",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 8
+              }
+            ],
+            "TotalHours": 8,
+            "StudentsCount": 15,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 5,
+                "Name": "У-21",
+                "FacultyId": 1
+              },
+              {
+                "Id": 2,
+                "Name": "МГ-21",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 8
+              }
+            ],
+            "TotalHours": 8,
+            "StudentsCount": 14,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 9,
+                "Name": "Д-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 15,
+                "Name": "ТМ-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 7,
+                "Name": "АП-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 16,
+                "Name": "М-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 12,
+                "Name": "РТ-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 12
+              }
+            ],
+            "TotalHours": 12,
+            "StudentsCount": 29,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Гридина Е.И.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 1,
+              "Name": "Компьютерные информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 5,
+                "Name": "У-21",
+                "FacultyId": 1
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 6
+              }
+            ],
+            "TotalHours": 6,
+            "StudentsCount": 17,
+            "Term": 1,
+            "FacultyName": "ГЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 9,
+                "Name": "Д-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 10,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 31,
+                "Name": "ТТ-11",
+                "FacultyId": 4
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 8
+              }
+            ],
+            "TotalHours": 8,
+            "StudentsCount": 10,
+            "Term": 1,
+            "FacultyName": "МТФ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Богданова Н.С.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 12,
+                "Name": "РТ-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 17,
+                "Name": "ГА-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 34
+              },
+              {
+                "Name": "кон",
+                "Value": 18.5
+              },
+              {
+                "Name": "эк",
+                "Value": 49.5
+              }
+            ],
+            "TotalHours": 102,
+            "StudentsCount": 99,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 13,
+                "Name": "ГА-21",
+                "FacultyId": 2
+              },
+              {
+                "Id": 19,
+                "Name": "НР-21",
+                "FacultyId": 2
+              },
+              {
+                "Id": 8,
+                "Name": "ТЭ-11",
+                "FacultyId": 2
+              },
+              {
+                "Id": 6,
+                "Name": "ЭС-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 21,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Трохова Т.А.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 16,
+                "Name": "М-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 9,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 26,
+                "Name": "Э-11",
+                "FacultyId": 3
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 19,
+            "Term": 1,
+            "FacultyName": "ЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 8,
+                "Name": "ТЭ-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "практ",
+                "Value": 17
+              }
+            ],
+            "TotalHours": 17,
+            "StudentsCount": 19,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Косинов Г.П.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 33,
+                "Name": "К-11",
+                "FacultyId": 4
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 34
+              }
+            ],
+            "TotalHours": 34,
+            "StudentsCount": 9,
+            "Term": 1,
+            "FacultyName": "МТФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 19,
+                "Name": "НР-21",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 18,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 62,
+                "Name": "ЗУ-11с",
+                "FacultyId": 7
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 16
+              },
+              {
+                "Name": "кон",
+                "Value": 7.5
+              }
+            ],
+            "TotalHours": 23.5,
+            "StudentsCount": 25,
+            "Term": 1,
+            "FacultyName": "ЗФЭ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Шибеко В.Н.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 31,
+                "Name": "ТТ-11",
+                "FacultyId": 4
+              },
+              {
+                "Id": 33,
+                "Name": "К-11",
+                "FacultyId": 4
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 21,
+            "Term": 1,
+            "FacultyName": "МТФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 28,
+                "Name": "ЭН-11",
+                "FacultyId": 3
+              },
+              {
+                "Id": 25,
+                "Name": "ЭП-11",
+                "FacultyId": 3
+              },
+              {
+                "Id": 26,
+                "Name": "Э-11",
+                "FacultyId": 3
+              },
+              {
+                "Id": 27,
+                "Name": "Э-12",
+                "FacultyId": 3
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 34
+              },
+              {
+                "Name": "кр",
+                "Value": 31.4
+              }
+            ],
+            "TotalHours": 65.4,
+            "StudentsCount": 18,
+            "Term": 1,
+            "FacultyName": "ЭФ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Самовендюк Н.В.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 19,
+                "Name": "НР-21",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 21,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 39,
+                "Name": "ИП-11",
+                "FacultyId": 5
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "ИПР",
+                "Value": 6.6
+              }
+            ],
+            "TotalHours": 6.6,
+            "StudentsCount": 18,
+            "Term": 1,
+            "FacultyName": "ФАИС"
+          },
+          {
+            "Subject": {
+              "Id": 6,
+              "Name": "Основы web-программирования"
+            },
+            "Group": [
+              {
+                "Id": 55,
+                "Name": "ЗТЭ-11",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 34
+              },
+              {
+                "Name": "кон",
+                "Value": 3.4
+              }
+            ],
+            "TotalHours": 37.4,
+            "StudentsCount": 42,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 6,
+              "Name": "Основы web-программирования"
+            },
+            "Group": [
+              {
+                "Id": 48,
+                "Name": "ЗТЭ-11с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "зач",
+                "Value": 4.2
+              }
+            ],
+            "TotalHours": 4.2,
+            "StudentsCount": 14,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 6,
+              "Name": "Основы web-программирования"
+            },
+            "Group": [
+              {
+                "Id": 43,
+                "Name": "ЗТМ-11с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 46,
+                "Name": "ЗТМ-12с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 57,
+                "Name": "ЗМД-11с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 58,
+                "Name": "ЗС-11с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 34
+              },
+              {
+                "Name": "зач",
+                "Value": 8.4
+              }
+            ],
+            "TotalHours": 42.4,
+            "StudentsCount": 28,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 51,
+                "Name": "ЗТМ-21с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 44,
+                "Name": "ЗТМ-22с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 8
+              },
+              {
+                "Name": "кон",
+                "Value": 4.2
+              }
+            ],
+            "TotalHours": 12.2,
+            "StudentsCount": 14,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Мурашко В.С.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 3,
+              "Name": "Информатикаи компьютерная графика"
+            },
+            "Group": [
+              {
+                "Id": 14,
+                "Name": "ТМ-21",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 102
+              }
+            ],
+            "TotalHours": 102,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 3,
+              "Name": "Информатикаи компьютерная графика"
+            },
+            "Group": [
+              {
+                "Id": 32,
+                "Name": "С-21",
+                "FacultyId": 4
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 51
+              }
+            ],
+            "TotalHours": 51,
+            "StudentsCount": 10,
+            "Term": 1,
+            "FacultyName": "МТФ"
+          },
+          {
+            "Subject": {
+              "Id": 3,
+              "Name": "Информатикаи компьютерная графика"
+            },
+            "Group": [
+              {
+                "Id": 39,
+                "Name": "ИП-11",
+                "FacultyId": 5
+              },
+              {
+                "Id": 41,
+                "Name": "ИП-12",
+                "FacultyId": 5
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 17
+              },
+              {
+                "Name": "кон",
+                "Value": 5.6
+              },
+              {
+                "Name": "эк",
+                "Value": 19
+              }
+            ],
+            "TotalHours": 41.6,
+            "StudentsCount": 38,
+            "Term": 1,
+            "FacultyName": "ФАИС"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Прокопенко Д.В.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 41,
+                "Name": "ИП-12",
+                "FacultyId": 5
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "ФАИС"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 6,
+                "Name": "ЭС-11",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 34
+              }
+            ],
+            "TotalHours": 34,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 23,
+                "Name": "ТЭ-21",
+                "FacultyId": 3
+              },
+              {
+                "Id": 22,
+                "Name": "ЭС-21",
+                "FacultyId": 3
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              },
+              {
+                "Name": "кон",
+                "Value": 3.7
+              },
+              {
+                "Name": "эк",
+                "Value": 10
+              }
+            ],
+            "TotalHours": 81.7,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "ЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 22,
+                "Name": "ЭС-21",
+                "FacultyId": 3
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "ЭФ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 43,
+                "Name": "ЗТМ-11с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 46,
+                "Name": "ЗТМ-12с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 58,
+                "Name": "ЗС-11с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 34
+              },
+              {
+                "Name": "кон",
+                "Value": 11.1
+              },
+              {
+                "Name": "эк",
+                "Value": 35.5
+              }
+            ],
+            "TotalHours": 80.6,
+            "StudentsCount": 71,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 58,
+                "Name": "ЗС-11с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 21,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 42,
+                "Name": "ЗТМ-11",
+                "FacultyId": 6
+              },
+              {
+                "Id": 52,
+                "Name": "ЗНР-11",
+                "FacultyId": 6
+              },
+              {
+                "Id": 59,
+                "Name": "ЗМД-11",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 30,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 54,
+                "Name": "ЗНР-21",
+                "FacultyId": 6
+              },
+              {
+                "Id": 49,
+                "Name": "ЗТМ-21",
+                "FacultyId": 6
+              },
+              {
+                "Id": 51,
+                "Name": "ЗТМ-21с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 44,
+                "Name": "ЗТМ-22с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 8
+              },
+              {
+                "Name": "кон",
+                "Value": 12.8
+              },
+              {
+                "Name": "эк",
+                "Value": 37
+              }
+            ],
+            "TotalHours": 57.8,
+            "StudentsCount": 74,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 4,
+              "Name": "Информационные технологии"
+            },
+            "Group": [
+              {
+                "Id": 49,
+                "Name": "ЗТМ-21",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 16
+              },
+              {
+                "Name": "кон",
+                "Value": 7.5
+              }
+            ],
+            "TotalHours": 23.5,
+            "StudentsCount": 25,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Романькова Т.Л.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 5,
+              "Name": "Основы алгоритмизации и программирования"
+            },
+            "Group": [
+              {
+                "Id": 56,
+                "Name": "ЗЭН-11с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 45,
+                "Name": "ЗЭ-11с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 47,
+                "Name": "ЗЭ-12с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 50,
+                "Name": "ЗЭ-13с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 68
+              }
+            ],
+            "TotalHours": 68,
+            "StudentsCount": 28,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 5,
+              "Name": "Основы алгоритмизации и программирования"
+            },
+            "Group": [
+              {
+                "Id": 56,
+                "Name": "ЗЭН-11с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 34
+              }
+            ],
+            "TotalHours": 34,
+            "StudentsCount": 14,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 5,
+              "Name": "Основы алгоритмизации и программирования"
+            },
+            "Group": [
+              {
+                "Id": 45,
+                "Name": "ЗЭ-11с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 47,
+                "Name": "ЗЭ-12с",
+                "FacultyId": 6
+              },
+              {
+                "Id": 50,
+                "Name": "ЗЭ-13с",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 34
+              },
+              {
+                "Name": "кон",
+                "Value": 7.4
+              },
+              {
+                "Name": "эк",
+                "Value": 21
+              }
+            ],
+            "TotalHours": 62.4,
+            "StudentsCount": 42,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TeacherName": "Кудин В.П.",
+    "Bids": [
+      {
+        "BidValue": 1,
+        "Rows": [
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 55,
+                "Name": "ЗТЭ-11",
+                "FacultyId": 6
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 12
+              }
+            ],
+            "TotalHours": 12,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "ЗФТ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 64,
+                "Name": "ЗУ-11",
+                "FacultyId": 7
+              },
+              {
+                "Id": 63,
+                "Name": "ЗУ-21",
+                "FacultyId": 7
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "кон",
+                "Value": 3.8
+              },
+              {
+                "Name": "эк",
+                "Value": 10
+              }
+            ],
+            "TotalHours": 13.8,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "ЗФЭ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 63,
+                "Name": "ЗУ-21",
+                "FacultyId": 7
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 24
+              }
+            ],
+            "TotalHours": 24,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "ЗФЭ"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 37,
+                "Name": "ИП-21",
+                "FacultyId": 5
+              },
+              {
+                "Id": 40,
+                "Name": "ИП-22",
+                "FacultyId": 5
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "кон",
+                "Value": 6
+              },
+              {
+                "Name": "тест",
+                "Value": 5
+              }
+            ],
+            "TotalHours": 11,
+            "StudentsCount": 20,
+            "Term": 1,
+            "FacultyName": "ФАИС"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 37,
+                "Name": "ИП-21",
+                "FacultyId": 5
+              },
+              {
+                "Id": 40,
+                "Name": "ИП-22",
+                "FacultyId": 5
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 6
+              },
+              {
+                "Name": "кон",
+                "Value": 2.9
+              },
+              {
+                "Name": "эк",
+                "Value": 8
+              }
+            ],
+            "TotalHours": 16.9,
+            "StudentsCount": 16,
+            "Term": 1,
+            "FacultyName": "ФАИС"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 37,
+                "Name": "ИП-21",
+                "FacultyId": 5
+              },
+              {
+                "Id": 40,
+                "Name": "ИП-22",
+                "FacultyId": 5
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лаб",
+                "Value": 6
+              },
+              {
+                "Name": "кон",
+                "Value": 4.8
+              },
+              {
+                "Name": "тест",
+                "Value": 4
+              }
+            ],
+            "TotalHours": 14.8,
+            "StudentsCount": 16,
+            "Term": 1,
+            "FacultyName": "ФАИС"
+          },
+          {
+            "Subject": {
+              "Id": 2,
+              "Name": "Информатика"
+            },
+            "Group": [
+              {
+                "Id": 11,
+                "Name": "АП-31",
+                "FacultyId": 2
+              }
+            ],
+            "Cells": [
+              {
+                "Name": "лек",
+                "Value": 8
+              }
+            ],
+            "TotalHours": 8,
+            "StudentsCount": 50,
+            "Term": 1,
+            "FacultyName": "МСФ"
+          }
+        ]
+      }
+    ]
+  }
+]

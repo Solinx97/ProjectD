@@ -1,0 +1,9 @@
+﻿@model DataTransfer
+
+<div class="flex-column__flex-start">
+    <div class="flex-row__flex-start">
+        @Html.DropDownList("facultiesId", ViewBag.Faculties as SelectList, new { @class = "btn btn-secondary dropdown-toggle space" })
+        <div id="result-1"></div>
+    </div>
+    <div id="result"></div>
+</div>

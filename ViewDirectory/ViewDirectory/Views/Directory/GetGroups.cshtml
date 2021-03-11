@@ -1,0 +1,14 @@
+﻿@Html.DropDownList("groupsId", ViewBag.Groups as SelectList, new { @class = "btn btn-secondary dropdown-toggle space" })
+
+<script>
+    function showGroups() {
+        let selGroup = document.querySelector("#groupsId");
+        console.log(selGroup);
+        ajaxQuery("GET", "/Directory/GetLoads", undefined, { "groupId": +selGroup.value }, "#result");
+        selGroup.onchange = function () {
+            ajaxQuery("GET", "/Directory/GetLoads", undefined, { "groupId": +selGroup.value }, "#result");
+        };
+    }
+
+    showGroups();
+</script>

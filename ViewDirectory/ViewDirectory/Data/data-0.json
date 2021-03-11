@@ -1,0 +1,5438 @@
+{
+  "faculties": [
+    {
+      "id": 1,
+      "name": "ГЭФ"
+    },
+    {
+      "id": 2,
+      "name": "МСФ"
+    },
+    {
+      "id": 3,
+      "name": "ЭФ"
+    },
+    {
+      "id": 4,
+      "name": "МТФ"
+    },
+    {
+      "id": 5,
+      "name": "ФАИС"
+    },
+    {
+      "id": 6,
+      "name": "ЗФТ"
+    },
+    {
+      "id": 7,
+      "name": "ЗФЭ"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "МГ-11",
+      "facultyId": 1
+    },
+    {
+      "id": 2,
+      "name": "МГ-21",
+      "facultyId": 1
+    },
+    {
+      "id": 3,
+      "name": "У-11",
+      "facultyId": 1
+    },
+    {
+      "id": 4,
+      "name": "ОП-11",
+      "facultyId": 1
+    },
+    {
+      "id": 5,
+      "name": "У-21",
+      "facultyId": 1
+    },
+    {
+      "id": 6,
+      "name": "ЭС-11",
+      "facultyId": 2
+    },
+    {
+      "id": 7,
+      "name": "АП-11",
+      "facultyId": 2
+    },
+    {
+      "id": 8,
+      "name": "ТЭ-11",
+      "facultyId": 2
+    },
+    {
+      "id": 9,
+      "name": "Д-11",
+      "facultyId": 2
+    },
+    {
+      "id": 10,
+      "name": "АП-21",
+      "facultyId": 2
+    },
+    {
+      "id": 11,
+      "name": "АП-31",
+      "facultyId": 2
+    },
+    {
+      "id": 12,
+      "name": "РТ-11",
+      "facultyId": 2
+    },
+    {
+      "id": 13,
+      "name": "ГА-21",
+      "facultyId": 2
+    },
+    {
+      "id": 14,
+      "name": "ТМ-21",
+      "facultyId": 2
+    },
+    {
+      "id": 15,
+      "name": "ТМ-11",
+      "facultyId": 2
+    },
+    {
+      "id": 16,
+      "name": "М-11",
+      "facultyId": 2
+    },
+    {
+      "id": 17,
+      "name": "ГА-11",
+      "facultyId": 2
+    },
+    {
+      "id": 18,
+      "name": "НР-11",
+      "facultyId": 2
+    },
+    {
+      "id": 19,
+      "name": "НР-21",
+      "facultyId": 2
+    },
+    {
+      "id": 20,
+      "name": "ЭС-11",
+      "facultyId": 3
+    },
+    {
+      "id": 21,
+      "name": "ТЭ-11",
+      "facultyId": 3
+    },
+    {
+      "id": 22,
+      "name": "ЭС-21",
+      "facultyId": 3
+    },
+    {
+      "id": 23,
+      "name": "ТЭ-21",
+      "facultyId": 3
+    },
+    {
+      "id": 24,
+      "name": "ГА-11",
+      "facultyId": 3
+    },
+    {
+      "id": 25,
+      "name": "ЭП-11",
+      "facultyId": 3
+    },
+    {
+      "id": 26,
+      "name": "Э-11",
+      "facultyId": 3
+    },
+    {
+      "id": 27,
+      "name": "Э-12",
+      "facultyId": 3
+    },
+    {
+      "id": 28,
+      "name": "ЭН-11",
+      "facultyId": 3
+    },
+    {
+      "id": 29,
+      "name": "НР-11",
+      "facultyId": 3
+    },
+    {
+      "id": 30,
+      "name": "Д-11",
+      "facultyId": 4
+    },
+    {
+      "id": 31,
+      "name": "ТТ-11",
+      "facultyId": 4
+    },
+    {
+      "id": 32,
+      "name": "С-21",
+      "facultyId": 4
+    },
+    {
+      "id": 33,
+      "name": "К-11",
+      "facultyId": 4
+    },
+    {
+      "id": 34,
+      "name": "М-11",
+      "facultyId": 4
+    },
+    {
+      "id": 35,
+      "name": "ЭП-11",
+      "facultyId": 5
+    },
+    {
+      "id": 36,
+      "name": "ИП-31",
+      "facultyId": 5
+    },
+    {
+      "id": 37,
+      "name": "ИП-21",
+      "facultyId": 5
+    },
+    {
+      "id": 38,
+      "name": "ИП-32",
+      "facultyId": 5
+    },
+    {
+      "id": 39,
+      "name": "ИП-11",
+      "facultyId": 5
+    },
+    {
+      "id": 40,
+      "name": "ИП-22",
+      "facultyId": 5
+    },
+    {
+      "id": 41,
+      "name": "ИП-12",
+      "facultyId": 5
+    },
+    {
+      "id": 42,
+      "name": "ЗТМ-11",
+      "facultyId": 6
+    },
+    {
+      "id": 43,
+      "name": "ЗТМ-11с",
+      "facultyId": 6
+    },
+    {
+      "id": 44,
+      "name": "ЗТМ-22с",
+      "facultyId": 6
+    },
+    {
+      "id": 45,
+      "name": "ЗЭ-11с",
+      "facultyId": 6
+    },
+    {
+      "id": 46,
+      "name": "ЗТМ-12с",
+      "facultyId": 6
+    },
+    {
+      "id": 47,
+      "name": "ЗЭ-12с",
+      "facultyId": 6
+    },
+    {
+      "id": 48,
+      "name": "ЗТЭ-11с",
+      "facultyId": 6
+    },
+    {
+      "id": 49,
+      "name": "ЗТМ-21",
+      "facultyId": 6
+    },
+    {
+      "id": 50,
+      "name": "ЗЭ-13с",
+      "facultyId": 6
+    },
+    {
+      "id": 51,
+      "name": "ЗТМ-21с",
+      "facultyId": 6
+    },
+    {
+      "id": 52,
+      "name": "ЗНР-11",
+      "facultyId": 6
+    },
+    {
+      "id": 53,
+      "name": "ЗТМ_12с",
+      "facultyId": 6
+    },
+    {
+      "id": 54,
+      "name": "ЗНР-21",
+      "facultyId": 6
+    },
+    {
+      "id": 55,
+      "name": "ЗТЭ-11",
+      "facultyId": 6
+    },
+    {
+      "id": 56,
+      "name": "ЗЭН-11с",
+      "facultyId": 6
+    },
+    {
+      "id": 57,
+      "name": "ЗМД-11с",
+      "facultyId": 6
+    },
+    {
+      "id": 58,
+      "name": "ЗС-11с",
+      "facultyId": 6
+    },
+    {
+      "id": 59,
+      "name": "ЗМД-11",
+      "facultyId": 6
+    },
+    {
+      "id": 60,
+      "name": "ЗЭ-21",
+      "facultyId": 6
+    },
+    {
+      "id": 61,
+      "name": "ЗЭ-11",
+      "facultyId": 6
+    },
+    {
+      "id": 62,
+      "name": "ЗУ-11с",
+      "facultyId": 7
+    },
+    {
+      "id": 63,
+      "name": "ЗУ-21",
+      "facultyId": 7
+    },
+    {
+      "id": 64,
+      "name": "ЗУ-11",
+      "facultyId": 7
+    }
+  ],
+  "groupLoads": [
+    {
+      "groupId": 3,
+      "unitOfLoadId": 1
+    },
+    {
+      "groupId": 4,
+      "unitOfLoadId": 1
+    },
+    {
+      "groupId": 1,
+      "unitOfLoadId": 1
+    },
+    {
+      "groupId": 1,
+      "unitOfLoadId": 2
+    },
+    {
+      "groupId": 4,
+      "unitOfLoadId": 3
+    },
+    {
+      "groupId": 3,
+      "unitOfLoadId": 4
+    },
+    {
+      "groupId": 1,
+      "unitOfLoadId": 5
+    },
+    {
+      "groupId": 1,
+      "unitOfLoadId": 6
+    },
+    {
+      "groupId": 1,
+      "unitOfLoadId": 7
+    },
+    {
+      "groupId": 5,
+      "unitOfLoadId": 8
+    },
+    {
+      "groupId": 5,
+      "unitOfLoadId": 9
+    },
+    {
+      "groupId": 2,
+      "unitOfLoadId": 10
+    },
+    {
+      "groupId": 2,
+      "unitOfLoadId": 11
+    },
+    {
+      "groupId": 5,
+      "unitOfLoadId": 12
+    },
+    {
+      "groupId": 2,
+      "unitOfLoadId": 12
+    },
+    {
+      "groupId": 5,
+      "unitOfLoadId": 13
+    },
+    {
+      "groupId": 2,
+      "unitOfLoadId": 13
+    },
+    {
+      "groupId": 9,
+      "unitOfLoadId": 14
+    },
+    {
+      "groupId": 15,
+      "unitOfLoadId": 14
+    },
+    {
+      "groupId": 7,
+      "unitOfLoadId": 14
+    },
+    {
+      "groupId": 16,
+      "unitOfLoadId": 14
+    },
+    {
+      "groupId": 12,
+      "unitOfLoadId": 14
+    },
+    {
+      "groupId": 17,
+      "unitOfLoadId": 15
+    },
+    {
+      "groupId": 18,
+      "unitOfLoadId": 15
+    },
+    {
+      "groupId": 6,
+      "unitOfLoadId": 15
+    },
+    {
+      "groupId": 8,
+      "unitOfLoadId": 15
+    },
+    {
+      "groupId": 7,
+      "unitOfLoadId": 16
+    },
+    {
+      "groupId": 12,
+      "unitOfLoadId": 17
+    },
+    {
+      "groupId": 12,
+      "unitOfLoadId": 18
+    },
+    {
+      "groupId": 17,
+      "unitOfLoadId": 19
+    },
+    {
+      "groupId": 17,
+      "unitOfLoadId": 20
+    },
+    {
+      "groupId": 17,
+      "unitOfLoadId": 21
+    },
+    {
+      "groupId": 18,
+      "unitOfLoadId": 22
+    },
+    {
+      "groupId": 15,
+      "unitOfLoadId": 23
+    },
+    {
+      "groupId": 13,
+      "unitOfLoadId": 24
+    },
+    {
+      "groupId": 19,
+      "unitOfLoadId": 24
+    },
+    {
+      "groupId": 8,
+      "unitOfLoadId": 24
+    },
+    {
+      "groupId": 6,
+      "unitOfLoadId": 24
+    },
+    {
+      "groupId": 9,
+      "unitOfLoadId": 25
+    },
+    {
+      "groupId": 16,
+      "unitOfLoadId": 26
+    },
+    {
+      "groupId": 31,
+      "unitOfLoadId": 27
+    },
+    {
+      "groupId": 33,
+      "unitOfLoadId": 28
+    },
+    {
+      "groupId": 33,
+      "unitOfLoadId": 29
+    },
+    {
+      "groupId": 31,
+      "unitOfLoadId": 30
+    },
+    {
+      "groupId": 33,
+      "unitOfLoadId": 30
+    },
+    {
+      "groupId": 13,
+      "unitOfLoadId": 31
+    },
+    {
+      "groupId": 19,
+      "unitOfLoadId": 32
+    },
+    {
+      "groupId": 13,
+      "unitOfLoadId": 33
+    },
+    {
+      "groupId": 19,
+      "unitOfLoadId": 34
+    },
+    {
+      "groupId": 19,
+      "unitOfLoadId": 35
+    },
+    {
+      "groupId": 14,
+      "unitOfLoadId": 36
+    },
+    {
+      "groupId": 32,
+      "unitOfLoadId": 37
+    },
+    {
+      "groupId": 25,
+      "unitOfLoadId": 38
+    },
+    {
+      "groupId": 39,
+      "unitOfLoadId": 39
+    },
+    {
+      "groupId": 41,
+      "unitOfLoadId": 40
+    },
+    {
+      "groupId": 39,
+      "unitOfLoadId": 41
+    },
+    {
+      "groupId": 41,
+      "unitOfLoadId": 41
+    },
+    {
+      "groupId": 39,
+      "unitOfLoadId": 42
+    },
+    {
+      "groupId": 41,
+      "unitOfLoadId": 42
+    },
+    {
+      "groupId": 41,
+      "unitOfLoadId": 43
+    },
+    {
+      "groupId": 41,
+      "unitOfLoadId": 44
+    },
+    {
+      "groupId": 39,
+      "unitOfLoadId": 45
+    },
+    {
+      "groupId": 28,
+      "unitOfLoadId": 46
+    },
+    {
+      "groupId": 25,
+      "unitOfLoadId": 46
+    },
+    {
+      "groupId": 26,
+      "unitOfLoadId": 46
+    },
+    {
+      "groupId": 27,
+      "unitOfLoadId": 46
+    },
+    {
+      "groupId": 28,
+      "unitOfLoadId": 47
+    },
+    {
+      "groupId": 26,
+      "unitOfLoadId": 48
+    },
+    {
+      "groupId": 8,
+      "unitOfLoadId": 49
+    },
+    {
+      "groupId": 6,
+      "unitOfLoadId": 50
+    },
+    {
+      "groupId": 23,
+      "unitOfLoadId": 51
+    },
+    {
+      "groupId": 22,
+      "unitOfLoadId": 52
+    },
+    {
+      "groupId": 23,
+      "unitOfLoadId": 53
+    },
+    {
+      "groupId": 22,
+      "unitOfLoadId": 54
+    },
+    {
+      "groupId": 56,
+      "unitOfLoadId": 55
+    },
+    {
+      "groupId": 45,
+      "unitOfLoadId": 55
+    },
+    {
+      "groupId": 47,
+      "unitOfLoadId": 55
+    },
+    {
+      "groupId": 50,
+      "unitOfLoadId": 55
+    },
+    {
+      "groupId": 56,
+      "unitOfLoadId": 56
+    },
+    {
+      "groupId": 45,
+      "unitOfLoadId": 57
+    },
+    {
+      "groupId": 47,
+      "unitOfLoadId": 58
+    },
+    {
+      "groupId": 50,
+      "unitOfLoadId": 59
+    },
+    {
+      "groupId": 55,
+      "unitOfLoadId": 60
+    },
+    {
+      "groupId": 55,
+      "unitOfLoadId": 61
+    },
+    {
+      "groupId": 48,
+      "unitOfLoadId": 62
+    },
+    {
+      "groupId": 48,
+      "unitOfLoadId": 63
+    },
+    {
+      "groupId": 43,
+      "unitOfLoadId": 64
+    },
+    {
+      "groupId": 46,
+      "unitOfLoadId": 64
+    },
+    {
+      "groupId": 57,
+      "unitOfLoadId": 64
+    },
+    {
+      "groupId": 58,
+      "unitOfLoadId": 64
+    },
+    {
+      "groupId": 57,
+      "unitOfLoadId": 65
+    },
+    {
+      "groupId": 43,
+      "unitOfLoadId": 66
+    },
+    {
+      "groupId": 46,
+      "unitOfLoadId": 67
+    },
+    {
+      "groupId": 58,
+      "unitOfLoadId": 68
+    },
+    {
+      "groupId": 58,
+      "unitOfLoadId": 69
+    },
+    {
+      "groupId": 42,
+      "unitOfLoadId": 70
+    },
+    {
+      "groupId": 52,
+      "unitOfLoadId": 70
+    },
+    {
+      "groupId": 59,
+      "unitOfLoadId": 70
+    },
+    {
+      "groupId": 59,
+      "unitOfLoadId": 71
+    },
+    {
+      "groupId": 42,
+      "unitOfLoadId": 72
+    },
+    {
+      "groupId": 52,
+      "unitOfLoadId": 73
+    },
+    {
+      "groupId": 60,
+      "unitOfLoadId": 74
+    },
+    {
+      "groupId": 60,
+      "unitOfLoadId": 75
+    },
+    {
+      "groupId": 54,
+      "unitOfLoadId": 76
+    },
+    {
+      "groupId": 54,
+      "unitOfLoadId": 77
+    },
+    {
+      "groupId": 49,
+      "unitOfLoadId": 78
+    },
+    {
+      "groupId": 51,
+      "unitOfLoadId": 79
+    },
+    {
+      "groupId": 44,
+      "unitOfLoadId": 79
+    },
+    {
+      "groupId": 51,
+      "unitOfLoadId": 80
+    },
+    {
+      "groupId": 44,
+      "unitOfLoadId": 81
+    },
+    {
+      "groupId": 49,
+      "unitOfLoadId": 82
+    },
+    {
+      "groupId": 49,
+      "unitOfLoadId": 83
+    },
+    {
+      "groupId": 62,
+      "unitOfLoadId": 84
+    },
+    {
+      "groupId": 62,
+      "unitOfLoadId": 85
+    },
+    {
+      "groupId": 62,
+      "unitOfLoadId": 86
+    },
+    {
+      "groupId": 64,
+      "unitOfLoadId": 87
+    },
+    {
+      "groupId": 55,
+      "unitOfLoadId": 88
+    },
+    {
+      "groupId": 64,
+      "unitOfLoadId": 89
+    },
+    {
+      "groupId": 63,
+      "unitOfLoadId": 90
+    },
+    {
+      "groupId": 63,
+      "unitOfLoadId": 91
+    },
+    {
+      "groupId": 37,
+      "unitOfLoadId": 92
+    },
+    {
+      "groupId": 40,
+      "unitOfLoadId": 92
+    },
+    {
+      "groupId": 37,
+      "unitOfLoadId": 93
+    },
+    {
+      "groupId": 37,
+      "unitOfLoadId": 94
+    },
+    {
+      "groupId": 40,
+      "unitOfLoadId": 95
+    },
+    {
+      "groupId": 40,
+      "unitOfLoadId": 96
+    },
+    {
+      "groupId": 37,
+      "unitOfLoadId": 97
+    },
+    {
+      "groupId": 40,
+      "unitOfLoadId": 98
+    },
+    {
+      "groupId": 37,
+      "unitOfLoadId": 99
+    },
+    {
+      "groupId": 40,
+      "unitOfLoadId": 99
+    },
+    {
+      "groupId": 11,
+      "unitOfLoadId": 100
+    }
+  ],
+  "loads": [
+    {
+      "id": 1,
+      "name": "лек"
+    },
+    {
+      "id": 2,
+      "name": "лаб"
+    },
+    {
+      "id": 3,
+      "name": "практ"
+    },
+    {
+      "id": 4,
+      "name": "кон"
+    },
+    {
+      "id": 5,
+      "name": "эк"
+    },
+    {
+      "id": 6,
+      "name": "зач"
+    },
+    {
+      "id": 7,
+      "name": "кр"
+    },
+    {
+      "id": 8,
+      "name": "КП"
+    },
+    {
+      "id": 9,
+      "name": "ГЭК"
+    },
+    {
+      "id": 10,
+      "name": "Произ прак"
+    },
+    {
+      "id": 11,
+      "name": "зав каф"
+    },
+    {
+      "id": 12,
+      "name": "Диплом"
+    },
+    {
+      "id": 13,
+      "name": "Рец ДР"
+    },
+    {
+      "id": 14,
+      "name": "Норм"
+    },
+    {
+      "id": 15,
+      "name": "ИПР"
+    },
+    {
+      "id": 16,
+      "name": "тест"
+    },
+    {
+      "id": 17,
+      "name": "Учеб практ"
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Компьютерные информационные технологии"
+    },
+    {
+      "id": 2,
+      "name": "Информатика"
+    },
+    {
+      "id": 3,
+      "name": "Информатикаи компьютерная графика"
+    },
+    {
+      "id": 4,
+      "name": "Информационные технологии"
+    },
+    {
+      "id": 5,
+      "name": "Основы алгоритмизации и программирования"
+    },
+    {
+      "id": 6,
+      "name": "Основы web-программирования"
+    },
+    {
+      "id": 7,
+      "name": "Программирование"
+    },
+    {
+      "id": 8,
+      "name": "Языки программирования высокого уровня"
+    },
+    {
+      "id": 9,
+      "name": "Программирование и программные комплексы"
+    },
+    {
+      "id": 10,
+      "name": "Тестирование и верификация ПО"
+    },
+    {
+      "id": 11,
+      "name": "Архитектура вычислительных систем"
+    },
+    {
+      "id": 12,
+      "name": "Системное программирование"
+    },
+    {
+      "id": 13,
+      "name": "Модели данных и системы управления базами данных"
+    },
+    {
+      "id": 14,
+      "name": "Методы оптимизации и управления"
+    },
+    {
+      "id": 15,
+      "name": "Разработка приложений для интернет"
+    },
+    {
+      "id": 16,
+      "name": "Языки и технологии программирования"
+    },
+    {
+      "id": 17,
+      "name": "Введение в специальность"
+    },
+    {
+      "id": 18,
+      "name": "Компьютерная практика (3 недели)"
+    },
+    {
+      "id": 19,
+      "name": "Объектно-ориентированное программирование"
+    },
+    {
+      "id": 20,
+      "name": "Математическое моделирование сложных систем"
+    },
+    {
+      "id": 21,
+      "name": "Основы защиты информации"
+    },
+    {
+      "id": 22,
+      "name": "Операционные системы и среды"
+    },
+    {
+      "id": 23,
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "id": 24,
+      "name": "Избранные главы информатики"
+    },
+    {
+      "id": 25,
+      "name": "Технологическая"
+    },
+    {
+      "id": 26,
+      "name": "Программирование нейронных сетей в Python"
+    },
+    {
+      "id": 27,
+      "name": "Методы численного анализа"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Чабуркина С.А."
+    },
+    {
+      "id": 2,
+      "name": "Трусевич И.В."
+    },
+    {
+      "id": 3,
+      "name": "Олизарович Я.М."
+    },
+    {
+      "id": 4,
+      "name": "Ермолинская Н.В."
+    },
+    {
+      "id": 5,
+      "name": "Гридина Е.И."
+    },
+    {
+      "id": 6,
+      "name": "Богданова Н.С."
+    },
+    {
+      "id": 7,
+      "name": "Трохова Т.А."
+    },
+    {
+      "id": 8,
+      "name": "Косинов Г.П."
+    },
+    {
+      "id": 9,
+      "name": "Шибеко В.Н."
+    },
+    {
+      "id": 10,
+      "name": "Самовендюк Н.В."
+    },
+    {
+      "id": 11,
+      "name": "Мурашко В.С."
+    },
+    {
+      "id": 12,
+      "name": "Прокопенко Д.В."
+    },
+    {
+      "id": 13,
+      "name": "Романькова Т.Л."
+    },
+    {
+      "id": 14,
+      "name": "Кудин В.П."
+    },
+    {
+      "id": 15,
+      "name": "Ермалинская Н.В."
+    },
+    {
+      "id": 16,
+      "name": "Лукьяненко В.О."
+    }
+  ],
+  "unitOfLoads": [
+    {
+      "id": 1,
+      "loadId": 1,
+      "teacherId": 1,
+      "value": 34.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 1,
+      "studentsCount": 40
+    },
+    {
+      "id": 2,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 11.1,
+      "subjectId": 1,
+      "term": 1,
+      "row": 1,
+      "studentsCount": 40
+    },
+    {
+      "id": 3,
+      "loadId": 5,
+      "teacherId": 1,
+      "value": 20.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 1,
+      "studentsCount": 40
+    },
+    {
+      "id": 4,
+      "loadId": 2,
+      "teacherId": 2,
+      "value": 52.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 2,
+      "studentsCount": 17
+    },
+    {
+      "id": 5,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 34.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 3,
+      "studentsCount": 9
+    },
+    {
+      "id": 6,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 34.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 4,
+      "studentsCount": 14
+    },
+    {
+      "id": 7,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 4.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 5,
+      "studentsCount": 17
+    },
+    {
+      "id": 8,
+      "loadId": 2,
+      "teacherId": 5,
+      "value": 6.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 6,
+      "studentsCount": 17
+    },
+    {
+      "id": 9,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 6.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 7,
+      "studentsCount": 17
+    },
+    {
+      "id": 10,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 8.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 8,
+      "studentsCount": 15
+    },
+    {
+      "id": 11,
+      "loadId": 2,
+      "teacherId": 2,
+      "value": 26.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 9,
+      "studentsCount": 15
+    },
+    {
+      "id": 12,
+      "loadId": 2,
+      "teacherId": 2,
+      "value": 26.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 10,
+      "studentsCount": 14
+    },
+    {
+      "id": 13,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 8.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 11,
+      "studentsCount": 14
+    },
+    {
+      "id": 14,
+      "loadId": 1,
+      "teacherId": 4,
+      "value": 12.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 12,
+      "studentsCount": 29
+    },
+    {
+      "id": 15,
+      "loadId": 1,
+      "teacherId": 2,
+      "value": 22.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 13,
+      "studentsCount": 29
+    },
+    {
+      "id": 16,
+      "loadId": 4,
+      "teacherId": 2,
+      "value": 7.4,
+      "subjectId": 1,
+      "term": 1,
+      "row": 13,
+      "studentsCount": 29
+    },
+    {
+      "id": 17,
+      "loadId": 5,
+      "teacherId": 2,
+      "value": 14.5,
+      "subjectId": 1,
+      "term": 1,
+      "row": 13,
+      "studentsCount": 29
+    },
+    {
+      "id": 18,
+      "loadId": 1,
+      "teacherId": 6,
+      "value": 34.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 14,
+      "studentsCount": 99
+    },
+    {
+      "id": 19,
+      "loadId": 4,
+      "teacherId": 6,
+      "value": 18.5,
+      "subjectId": 2,
+      "term": 1,
+      "row": 14,
+      "studentsCount": 99
+    },
+    {
+      "id": 20,
+      "loadId": 5,
+      "teacherId": 6,
+      "value": 49.5,
+      "subjectId": 2,
+      "term": 1,
+      "row": 14,
+      "studentsCount": 99
+    },
+    {
+      "id": 21,
+      "loadId": 1,
+      "teacherId": 1,
+      "value": 34.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 15,
+      "studentsCount": 95
+    },
+    {
+      "id": 22,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 14.8,
+      "subjectId": 2,
+      "term": 1,
+      "row": 15,
+      "studentsCount": 95
+    },
+    {
+      "id": 23,
+      "loadId": 5,
+      "teacherId": 1,
+      "value": 42.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 15,
+      "studentsCount": 95
+    },
+    {
+      "id": 24,
+      "loadId": 2,
+      "teacherId": 6,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 16,
+      "studentsCount": 21
+    },
+    {
+      "id": 25,
+      "loadId": 2,
+      "teacherId": 5,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 17,
+      "studentsCount": 10
+    },
+    {
+      "id": 26,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 18,
+      "studentsCount": 9
+    },
+    {
+      "id": 27,
+      "loadId": 2,
+      "teacherId": 5,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 19,
+      "studentsCount": 10
+    },
+    {
+      "id": 28,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 26.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 20,
+      "studentsCount": 10
+    },
+    {
+      "id": 29,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 34.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 21,
+      "studentsCount": 9
+    },
+    {
+      "id": 30,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 22,
+      "studentsCount": 21
+    },
+    {
+      "id": 31,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 23,
+      "studentsCount": 20
+    },
+    {
+      "id": 32,
+      "loadId": 1,
+      "teacherId": 1,
+      "value": 17.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 24,
+      "studentsCount": 88
+    },
+    {
+      "id": 33,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 3.2,
+      "subjectId": 2,
+      "term": 1,
+      "row": 24,
+      "studentsCount": 88
+    },
+    {
+      "id": 34,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 25,
+      "studentsCount": 18
+    },
+    {
+      "id": 35,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 26,
+      "studentsCount": 21
+    },
+    {
+      "id": 36,
+      "loadId": 2,
+      "teacherId": 11,
+      "value": 102.0,
+      "subjectId": 3,
+      "term": 1,
+      "row": 27,
+      "studentsCount": 20
+    },
+    {
+      "id": 37,
+      "loadId": 2,
+      "teacherId": 11,
+      "value": 51.0,
+      "subjectId": 3,
+      "term": 1,
+      "row": 28,
+      "studentsCount": 10
+    },
+    {
+      "id": 38,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 51.0,
+      "subjectId": 3,
+      "term": 1,
+      "row": 29,
+      "studentsCount": 18
+    },
+    {
+      "id": 39,
+      "loadId": 1,
+      "teacherId": 11,
+      "value": 17.0,
+      "subjectId": 3,
+      "term": 1,
+      "row": 30,
+      "studentsCount": 38
+    },
+    {
+      "id": 40,
+      "loadId": 4,
+      "teacherId": 11,
+      "value": 5.6,
+      "subjectId": 3,
+      "term": 1,
+      "row": 30,
+      "studentsCount": 38
+    },
+    {
+      "id": 41,
+      "loadId": 5,
+      "teacherId": 11,
+      "value": 19.0,
+      "subjectId": 3,
+      "term": 1,
+      "row": 30,
+      "studentsCount": 38
+    },
+    {
+      "id": 42,
+      "loadId": 6,
+      "teacherId": 1,
+      "value": 5.7,
+      "subjectId": 2,
+      "term": 1,
+      "row": 31,
+      "studentsCount": 19
+    },
+    {
+      "id": 43,
+      "loadId": 6,
+      "teacherId": 1,
+      "value": 5.7,
+      "subjectId": 2,
+      "term": 1,
+      "row": 32,
+      "studentsCount": 19
+    },
+    {
+      "id": 44,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 33,
+      "studentsCount": 20
+    },
+    {
+      "id": 45,
+      "loadId": 15,
+      "teacherId": 10,
+      "value": 6.6,
+      "subjectId": 2,
+      "term": 1,
+      "row": 34,
+      "studentsCount": 18
+    },
+    {
+      "id": 46,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 34.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 35,
+      "studentsCount": 18
+    },
+    {
+      "id": 47,
+      "loadId": 7,
+      "teacherId": 9,
+      "value": 31.4,
+      "subjectId": 2,
+      "term": 1,
+      "row": 35,
+      "studentsCount": 18
+    },
+    {
+      "id": 48,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 68.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 36,
+      "studentsCount": 19
+    },
+    {
+      "id": 49,
+      "loadId": 3,
+      "teacherId": 7,
+      "value": 17.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 36,
+      "studentsCount": 19
+    },
+    {
+      "id": 50,
+      "loadId": 1,
+      "teacherId": 12,
+      "value": 34.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 37,
+      "studentsCount": 20
+    },
+    {
+      "id": 51,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 68.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 37,
+      "studentsCount": 20
+    },
+    {
+      "id": 52,
+      "loadId": 4,
+      "teacherId": 12,
+      "value": 3.7,
+      "subjectId": 4,
+      "term": 1,
+      "row": 37,
+      "studentsCount": 20
+    },
+    {
+      "id": 53,
+      "loadId": 5,
+      "teacherId": 12,
+      "value": 10.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 37,
+      "studentsCount": 20
+    },
+    {
+      "id": 54,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 68.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 38,
+      "studentsCount": 20
+    },
+    {
+      "id": 55,
+      "loadId": 2,
+      "teacherId": 13,
+      "value": 68.0,
+      "subjectId": 5,
+      "term": 1,
+      "row": 39,
+      "studentsCount": 28
+    },
+    {
+      "id": 56,
+      "loadId": 2,
+      "teacherId": 13,
+      "value": 34.0,
+      "subjectId": 5,
+      "term": 1,
+      "row": 40,
+      "studentsCount": 14
+    },
+    {
+      "id": 57,
+      "loadId": 1,
+      "teacherId": 13,
+      "value": 34.0,
+      "subjectId": 5,
+      "term": 1,
+      "row": 41,
+      "studentsCount": 42
+    },
+    {
+      "id": 58,
+      "loadId": 4,
+      "teacherId": 13,
+      "value": 7.4,
+      "subjectId": 5,
+      "term": 1,
+      "row": 41,
+      "studentsCount": 42
+    },
+    {
+      "id": 59,
+      "loadId": 5,
+      "teacherId": 13,
+      "value": 21.0,
+      "subjectId": 5,
+      "term": 1,
+      "row": 41,
+      "studentsCount": 42
+    },
+    {
+      "id": 60,
+      "loadId": 1,
+      "teacherId": 10,
+      "value": 34.0,
+      "subjectId": 6,
+      "term": 1,
+      "row": 42,
+      "studentsCount": 42
+    },
+    {
+      "id": 61,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 3.4,
+      "subjectId": 6,
+      "term": 1,
+      "row": 42,
+      "studentsCount": 42
+    },
+    {
+      "id": 62,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 17.0,
+      "subjectId": 6,
+      "term": 1,
+      "row": 43,
+      "studentsCount": 14
+    },
+    {
+      "id": 63,
+      "loadId": 6,
+      "teacherId": 10,
+      "value": 4.2,
+      "subjectId": 6,
+      "term": 1,
+      "row": 44,
+      "studentsCount": 14
+    },
+    {
+      "id": 64,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 34.0,
+      "subjectId": 6,
+      "term": 1,
+      "row": 45,
+      "studentsCount": 28
+    },
+    {
+      "id": 65,
+      "loadId": 6,
+      "teacherId": 10,
+      "value": 8.4,
+      "subjectId": 6,
+      "term": 1,
+      "row": 45,
+      "studentsCount": 28
+    },
+    {
+      "id": 66,
+      "loadId": 1,
+      "teacherId": 12,
+      "value": 34.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 46,
+      "studentsCount": 71
+    },
+    {
+      "id": 67,
+      "loadId": 4,
+      "teacherId": 12,
+      "value": 11.1,
+      "subjectId": 4,
+      "term": 1,
+      "row": 46,
+      "studentsCount": 71
+    },
+    {
+      "id": 68,
+      "loadId": 5,
+      "teacherId": 12,
+      "value": 35.5,
+      "subjectId": 4,
+      "term": 1,
+      "row": 46,
+      "studentsCount": 71
+    },
+    {
+      "id": 69,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 68.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 47,
+      "studentsCount": 21
+    },
+    {
+      "id": 70,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 68.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 48,
+      "studentsCount": 30
+    },
+    {
+      "id": 71,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 49,
+      "studentsCount": 22
+    },
+    {
+      "id": 72,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 50,
+      "studentsCount": 22
+    },
+    {
+      "id": 73,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 51,
+      "studentsCount": 22
+    },
+    {
+      "id": 74,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 34.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 52,
+      "studentsCount": 28
+    },
+    {
+      "id": 75,
+      "loadId": 6,
+      "teacherId": 1,
+      "value": 6.6,
+      "subjectId": 2,
+      "term": 1,
+      "row": 53,
+      "studentsCount": 22
+    },
+    {
+      "id": 76,
+      "loadId": 6,
+      "teacherId": 1,
+      "value": 8.4,
+      "subjectId": 2,
+      "term": 1,
+      "row": 54,
+      "studentsCount": 28
+    },
+    {
+      "id": 77,
+      "loadId": 1,
+      "teacherId": 12,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 55,
+      "studentsCount": 74
+    },
+    {
+      "id": 78,
+      "loadId": 4,
+      "teacherId": 12,
+      "value": 12.8,
+      "subjectId": 4,
+      "term": 1,
+      "row": 55,
+      "studentsCount": 74
+    },
+    {
+      "id": 79,
+      "loadId": 5,
+      "teacherId": 12,
+      "value": 37.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 55,
+      "studentsCount": 74
+    },
+    {
+      "id": 80,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 56,
+      "studentsCount": 14
+    },
+    {
+      "id": 81,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 4.2,
+      "subjectId": 4,
+      "term": 1,
+      "row": 56,
+      "studentsCount": 14
+    },
+    {
+      "id": 82,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 16.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 57,
+      "studentsCount": 25
+    },
+    {
+      "id": 83,
+      "loadId": 4,
+      "teacherId": 12,
+      "value": 7.5,
+      "subjectId": 4,
+      "term": 1,
+      "row": 57,
+      "studentsCount": 25
+    },
+    {
+      "id": 84,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 16.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 58,
+      "studentsCount": 25
+    },
+    {
+      "id": 85,
+      "loadId": 4,
+      "teacherId": 8,
+      "value": 7.5,
+      "subjectId": 4,
+      "term": 1,
+      "row": 58,
+      "studentsCount": 25
+    },
+    {
+      "id": 86,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 59,
+      "studentsCount": 10
+    },
+    {
+      "id": 87,
+      "loadId": 4,
+      "teacherId": 3,
+      "value": 3.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 59,
+      "studentsCount": 10
+    },
+    {
+      "id": 88,
+      "loadId": 1,
+      "teacherId": 14,
+      "value": 12.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 60,
+      "studentsCount": 20
+    },
+    {
+      "id": 89,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 3.8,
+      "subjectId": 2,
+      "term": 1,
+      "row": 60,
+      "studentsCount": 20
+    },
+    {
+      "id": 90,
+      "loadId": 5,
+      "teacherId": 14,
+      "value": 10.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 60,
+      "studentsCount": 20
+    },
+    {
+      "id": 91,
+      "loadId": 2,
+      "teacherId": 14,
+      "value": 24.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 61,
+      "studentsCount": 20
+    },
+    {
+      "id": 92,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 61,
+      "studentsCount": 20
+    },
+    {
+      "id": 93,
+      "loadId": 16,
+      "teacherId": 14,
+      "value": 5.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 61,
+      "studentsCount": 20
+    },
+    {
+      "id": 94,
+      "loadId": 1,
+      "teacherId": 14,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 62,
+      "studentsCount": 16
+    },
+    {
+      "id": 95,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 2.9,
+      "subjectId": 2,
+      "term": 1,
+      "row": 62,
+      "studentsCount": 16
+    },
+    {
+      "id": 96,
+      "loadId": 5,
+      "teacherId": 14,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 62,
+      "studentsCount": 16
+    },
+    {
+      "id": 97,
+      "loadId": 2,
+      "teacherId": 14,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 63,
+      "studentsCount": 16
+    },
+    {
+      "id": 98,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 4.8,
+      "subjectId": 2,
+      "term": 1,
+      "row": 63,
+      "studentsCount": 16
+    },
+    {
+      "id": 99,
+      "loadId": 16,
+      "teacherId": 14,
+      "value": 4.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 63,
+      "studentsCount": 16
+    },
+    {
+      "id": 100,
+      "loadId": 1,
+      "teacherId": 14,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 64,
+      "studentsCount": 50
+    },
+    {
+      "id": 101,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 9.6,
+      "subjectId": 2,
+      "term": 1,
+      "row": 64,
+      "studentsCount": 50
+    },
+    {
+      "id": 102,
+      "loadId": 5,
+      "teacherId": 14,
+      "value": 25.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 64,
+      "studentsCount": 50
+    },
+    {
+      "id": 103,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 16.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 65,
+      "studentsCount": 17
+    },
+    {
+      "id": 104,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 5.1,
+      "subjectId": 2,
+      "term": 1,
+      "row": 65,
+      "studentsCount": 17
+    },
+    {
+      "id": 105,
+      "loadId": 2,
+      "teacherId": 14,
+      "value": 16.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 66,
+      "studentsCount": 23
+    },
+    {
+      "id": 106,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 6.9,
+      "subjectId": 2,
+      "term": 1,
+      "row": 66,
+      "studentsCount": 23
+    },
+    {
+      "id": 107,
+      "loadId": 2,
+      "teacherId": 14,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 67,
+      "studentsCount": 10
+    },
+    {
+      "id": 108,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 3.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 67,
+      "studentsCount": 10
+    },
+    {
+      "id": 109,
+      "loadId": 1,
+      "teacherId": 7,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 68,
+      "studentsCount": 16
+    },
+    {
+      "id": 110,
+      "loadId": 4,
+      "teacherId": 7,
+      "value": 2.9,
+      "subjectId": 2,
+      "term": 1,
+      "row": 68,
+      "studentsCount": 16
+    },
+    {
+      "id": 111,
+      "loadId": 5,
+      "teacherId": 7,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 68,
+      "studentsCount": 16
+    },
+    {
+      "id": 112,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 4.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 69,
+      "studentsCount": 16
+    },
+    {
+      "id": 113,
+      "loadId": 4,
+      "teacherId": 7,
+      "value": 4.8,
+      "subjectId": 2,
+      "term": 1,
+      "row": 69,
+      "studentsCount": 16
+    },
+    {
+      "id": 114,
+      "loadId": 1,
+      "teacherId": 12,
+      "value": 4.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 70,
+      "studentsCount": 60
+    },
+    {
+      "id": 115,
+      "loadId": 4,
+      "teacherId": 12,
+      "value": 1.8,
+      "subjectId": 2,
+      "term": 1,
+      "row": 70,
+      "studentsCount": 60
+    },
+    {
+      "id": 116,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 71,
+      "studentsCount": 20
+    },
+    {
+      "id": 117,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 72,
+      "studentsCount": 20
+    },
+    {
+      "id": 118,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 73,
+      "studentsCount": 20
+    },
+    {
+      "id": 119,
+      "loadId": 1,
+      "teacherId": 14,
+      "value": 4.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 74,
+      "studentsCount": 23
+    },
+    {
+      "id": 120,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 2.6,
+      "subjectId": 4,
+      "term": 1,
+      "row": 74,
+      "studentsCount": 23
+    },
+    {
+      "id": 121,
+      "loadId": 5,
+      "teacherId": 14,
+      "value": 11.5,
+      "subjectId": 4,
+      "term": 1,
+      "row": 74,
+      "studentsCount": 23
+    },
+    {
+      "id": 122,
+      "loadId": 2,
+      "teacherId": 14,
+      "value": 12.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 75,
+      "studentsCount": 23
+    },
+    {
+      "id": 123,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 6.9,
+      "subjectId": 4,
+      "term": 1,
+      "row": 75,
+      "studentsCount": 23
+    },
+    {
+      "id": 124,
+      "loadId": 16,
+      "teacherId": 14,
+      "value": 5.8,
+      "subjectId": 4,
+      "term": 1,
+      "row": 75,
+      "studentsCount": 23
+    },
+    {
+      "id": 125,
+      "loadId": 1,
+      "teacherId": 8,
+      "value": 4.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 76,
+      "studentsCount": 19
+    },
+    {
+      "id": 126,
+      "loadId": 4,
+      "teacherId": 8,
+      "value": 2.6,
+      "subjectId": 2,
+      "term": 1,
+      "row": 76,
+      "studentsCount": 19
+    },
+    {
+      "id": 127,
+      "loadId": 5,
+      "teacherId": 8,
+      "value": 9.5,
+      "subjectId": 2,
+      "term": 1,
+      "row": 76,
+      "studentsCount": 19
+    },
+    {
+      "id": 128,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 77,
+      "studentsCount": 19
+    },
+    {
+      "id": 129,
+      "loadId": 3,
+      "teacherId": 8,
+      "value": 2.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 77,
+      "studentsCount": 19
+    },
+    {
+      "id": 130,
+      "loadId": 4,
+      "teacherId": 8,
+      "value": 5.7,
+      "subjectId": 2,
+      "term": 1,
+      "row": 77,
+      "studentsCount": 19
+    },
+    {
+      "id": 131,
+      "loadId": 16,
+      "teacherId": 8,
+      "value": 4.8,
+      "subjectId": 2,
+      "term": 1,
+      "row": 77,
+      "studentsCount": 19
+    },
+    {
+      "id": 132,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 78,
+      "studentsCount": 20
+    },
+    {
+      "id": 133,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 78,
+      "studentsCount": 20
+    },
+    {
+      "id": 134,
+      "loadId": 6,
+      "teacherId": 9,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 1,
+      "row": 78,
+      "studentsCount": 20
+    },
+    {
+      "id": 135,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 4.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 79,
+      "studentsCount": 32
+    },
+    {
+      "id": 136,
+      "loadId": 5,
+      "teacherId": 9,
+      "value": 16.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 79,
+      "studentsCount": 32
+    },
+    {
+      "id": 137,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 80,
+      "studentsCount": 21
+    },
+    {
+      "id": 138,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 6.3,
+      "subjectId": 4,
+      "term": 1,
+      "row": 80,
+      "studentsCount": 21
+    },
+    {
+      "id": 139,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 4.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 81,
+      "studentsCount": 11
+    },
+    {
+      "id": 140,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 3.3,
+      "subjectId": 4,
+      "term": 1,
+      "row": 81,
+      "studentsCount": 11
+    },
+    {
+      "id": 141,
+      "loadId": 1,
+      "teacherId": 7,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 82,
+      "studentsCount": 19
+    },
+    {
+      "id": 142,
+      "loadId": 4,
+      "teacherId": 7,
+      "value": 1.2,
+      "subjectId": 4,
+      "term": 1,
+      "row": 82,
+      "studentsCount": 19
+    },
+    {
+      "id": 143,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 83,
+      "studentsCount": 19
+    },
+    {
+      "id": 144,
+      "loadId": 3,
+      "teacherId": 7,
+      "value": 2.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 83,
+      "studentsCount": 19
+    },
+    {
+      "id": 145,
+      "loadId": 1,
+      "teacherId": 5,
+      "value": 4.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 84,
+      "studentsCount": 19
+    },
+    {
+      "id": 146,
+      "loadId": 1,
+      "teacherId": 15,
+      "value": 6.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 85,
+      "studentsCount": 19
+    },
+    {
+      "id": 147,
+      "loadId": 4,
+      "teacherId": 15,
+      "value": 1.5,
+      "subjectId": 1,
+      "term": 1,
+      "row": 85,
+      "studentsCount": 19
+    },
+    {
+      "id": 148,
+      "loadId": 6,
+      "teacherId": 15,
+      "value": 5.7,
+      "subjectId": 1,
+      "term": 1,
+      "row": 85,
+      "studentsCount": 19
+    },
+    {
+      "id": 149,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 20.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 86,
+      "studentsCount": 19
+    },
+    {
+      "id": 150,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 5.7,
+      "subjectId": 1,
+      "term": 1,
+      "row": 86,
+      "studentsCount": 19
+    },
+    {
+      "id": 151,
+      "loadId": 1,
+      "teacherId": 1,
+      "value": 8.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 87,
+      "studentsCount": 20
+    },
+    {
+      "id": 152,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 3.2,
+      "subjectId": 1,
+      "term": 1,
+      "row": 87,
+      "studentsCount": 20
+    },
+    {
+      "id": 153,
+      "loadId": 5,
+      "teacherId": 1,
+      "value": 10.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 87,
+      "studentsCount": 20
+    },
+    {
+      "id": 154,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 2.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 88,
+      "studentsCount": 20
+    },
+    {
+      "id": 155,
+      "loadId": 5,
+      "teacherId": 14,
+      "value": 10.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 88,
+      "studentsCount": 20
+    },
+    {
+      "id": 156,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 20.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 89,
+      "studentsCount": 20
+    },
+    {
+      "id": 157,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 6.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 89,
+      "studentsCount": 20
+    },
+    {
+      "id": 158,
+      "loadId": 16,
+      "teacherId": 1,
+      "value": 5.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 89,
+      "studentsCount": 20
+    },
+    {
+      "id": 159,
+      "loadId": 4,
+      "teacherId": 2,
+      "value": 2.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 90,
+      "studentsCount": 17
+    },
+    {
+      "id": 160,
+      "loadId": 5,
+      "teacherId": 2,
+      "value": 8.5,
+      "subjectId": 1,
+      "term": 1,
+      "row": 90,
+      "studentsCount": 17
+    },
+    {
+      "id": 161,
+      "loadId": 2,
+      "teacherId": 2,
+      "value": 8.0,
+      "subjectId": 1,
+      "term": 1,
+      "row": 91,
+      "studentsCount": 17
+    },
+    {
+      "id": 162,
+      "loadId": 4,
+      "teacherId": 2,
+      "value": 5.1,
+      "subjectId": 1,
+      "term": 1,
+      "row": 91,
+      "studentsCount": 17
+    },
+    {
+      "id": 163,
+      "loadId": 16,
+      "teacherId": 2,
+      "value": 4.3,
+      "subjectId": 1,
+      "term": 1,
+      "row": 91,
+      "studentsCount": 17
+    },
+    {
+      "id": 164,
+      "loadId": 1,
+      "teacherId": 8,
+      "value": 34.0,
+      "subjectId": 7,
+      "term": 1,
+      "row": 92,
+      "studentsCount": 43
+    },
+    {
+      "id": 165,
+      "loadId": 4,
+      "teacherId": 8,
+      "value": 7.4,
+      "subjectId": 7,
+      "term": 1,
+      "row": 92,
+      "studentsCount": 43
+    },
+    {
+      "id": 166,
+      "loadId": 5,
+      "teacherId": 8,
+      "value": 21.5,
+      "subjectId": 7,
+      "term": 1,
+      "row": 92,
+      "studentsCount": 43
+    },
+    {
+      "id": 167,
+      "loadId": 15,
+      "teacherId": 3,
+      "value": 9.8,
+      "subjectId": 7,
+      "term": 1,
+      "row": 93,
+      "studentsCount": 28
+    },
+    {
+      "id": 168,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 68.0,
+      "subjectId": 7,
+      "term": 1,
+      "row": 94,
+      "studentsCount": 28
+    },
+    {
+      "id": 169,
+      "loadId": 7,
+      "teacherId": 8,
+      "value": 46.2,
+      "subjectId": 7,
+      "term": 1,
+      "row": 94,
+      "studentsCount": 28
+    },
+    {
+      "id": 170,
+      "loadId": 15,
+      "teacherId": 8,
+      "value": 5.2,
+      "subjectId": 7,
+      "term": 1,
+      "row": 95,
+      "studentsCount": 15
+    },
+    {
+      "id": 171,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 34.0,
+      "subjectId": 7,
+      "term": 1,
+      "row": 96,
+      "studentsCount": 15
+    },
+    {
+      "id": 172,
+      "loadId": 7,
+      "teacherId": 3,
+      "value": 24.8,
+      "subjectId": 7,
+      "term": 1,
+      "row": 96,
+      "studentsCount": 15
+    },
+    {
+      "id": 173,
+      "loadId": 2,
+      "teacherId": 13,
+      "value": 68.0,
+      "subjectId": 8,
+      "term": 1,
+      "row": 97,
+      "studentsCount": 28
+    },
+    {
+      "id": 174,
+      "loadId": 6,
+      "teacherId": 13,
+      "value": 8.4,
+      "subjectId": 8,
+      "term": 1,
+      "row": 97,
+      "studentsCount": 28
+    },
+    {
+      "id": 175,
+      "loadId": 2,
+      "teacherId": 13,
+      "value": 34.0,
+      "subjectId": 8,
+      "term": 1,
+      "row": 98,
+      "studentsCount": 15
+    },
+    {
+      "id": 176,
+      "loadId": 6,
+      "teacherId": 13,
+      "value": 4.5,
+      "subjectId": 8,
+      "term": 1,
+      "row": 98,
+      "studentsCount": 15
+    },
+    {
+      "id": 177,
+      "loadId": 1,
+      "teacherId": 13,
+      "value": 34.0,
+      "subjectId": 8,
+      "term": 1,
+      "row": 99,
+      "studentsCount": 43
+    },
+    {
+      "id": 178,
+      "loadId": 4,
+      "teacherId": 13,
+      "value": 3.4,
+      "subjectId": 8,
+      "term": 1,
+      "row": 99,
+      "studentsCount": 43
+    },
+    {
+      "id": 179,
+      "loadId": 1,
+      "teacherId": 9,
+      "value": 34.0,
+      "subjectId": 9,
+      "term": 1,
+      "row": 100,
+      "studentsCount": 21
+    },
+    {
+      "id": 180,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 34.0,
+      "subjectId": 9,
+      "term": 1,
+      "row": 100,
+      "studentsCount": 21
+    },
+    {
+      "id": 181,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 1.7,
+      "subjectId": 9,
+      "term": 1,
+      "row": 100,
+      "studentsCount": 21
+    },
+    {
+      "id": 182,
+      "loadId": 6,
+      "teacherId": 9,
+      "value": 6.3,
+      "subjectId": 9,
+      "term": 1,
+      "row": 100,
+      "studentsCount": 21
+    },
+    {
+      "id": 183,
+      "loadId": 2,
+      "teacherId": 6,
+      "value": 68.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 102,
+      "studentsCount": 26
+    },
+    {
+      "id": 184,
+      "loadId": 3,
+      "teacherId": 6,
+      "value": 17.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 102,
+      "studentsCount": 26
+    },
+    {
+      "id": 185,
+      "loadId": 1,
+      "teacherId": 7,
+      "value": 34.0,
+      "subjectId": 4,
+      "term": 1,
+      "row": 103,
+      "studentsCount": 45
+    },
+    {
+      "id": 186,
+      "loadId": 4,
+      "teacherId": 7,
+      "value": 7.4,
+      "subjectId": 4,
+      "term": 1,
+      "row": 103,
+      "studentsCount": 45
+    },
+    {
+      "id": 187,
+      "loadId": 5,
+      "teacherId": 7,
+      "value": 22.5,
+      "subjectId": 4,
+      "term": 1,
+      "row": 103,
+      "studentsCount": 45
+    },
+    {
+      "id": 188,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 104,
+      "studentsCount": 19
+    },
+    {
+      "id": 189,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 34.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 105,
+      "studentsCount": 10
+    },
+    {
+      "id": 190,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 34.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 106,
+      "studentsCount": 21
+    },
+    {
+      "id": 191,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 107,
+      "studentsCount": 20
+    },
+    {
+      "id": 192,
+      "loadId": 6,
+      "teacherId": 7,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 107,
+      "studentsCount": 20
+    },
+    {
+      "id": 193,
+      "loadId": 2,
+      "teacherId": 6,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 108,
+      "studentsCount": 21
+    },
+    {
+      "id": 194,
+      "loadId": 6,
+      "teacherId": 6,
+      "value": 6.3,
+      "subjectId": 2,
+      "term": 2,
+      "row": 108,
+      "studentsCount": 21
+    },
+    {
+      "id": 195,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 109,
+      "studentsCount": 18
+    },
+    {
+      "id": 196,
+      "loadId": 6,
+      "teacherId": 8,
+      "value": 5.4,
+      "subjectId": 2,
+      "term": 2,
+      "row": 109,
+      "studentsCount": 18
+    },
+    {
+      "id": 197,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 110,
+      "studentsCount": 21
+    },
+    {
+      "id": 198,
+      "loadId": 6,
+      "teacherId": 10,
+      "value": 6.3,
+      "subjectId": 2,
+      "term": 2,
+      "row": 110,
+      "studentsCount": 21
+    },
+    {
+      "id": 199,
+      "loadId": 1,
+      "teacherId": 9,
+      "value": 32.0,
+      "subjectId": 10,
+      "term": 1,
+      "row": 111,
+      "studentsCount": 32
+    },
+    {
+      "id": 200,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 7.2,
+      "subjectId": 10,
+      "term": 1,
+      "row": 111,
+      "studentsCount": 32
+    },
+    {
+      "id": 201,
+      "loadId": 5,
+      "teacherId": 9,
+      "value": 16.0,
+      "subjectId": 10,
+      "term": 1,
+      "row": 111,
+      "studentsCount": 32
+    },
+    {
+      "id": 202,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 64.0,
+      "subjectId": 10,
+      "term": 1,
+      "row": 112,
+      "studentsCount": 21
+    },
+    {
+      "id": 203,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 32.0,
+      "subjectId": 10,
+      "term": 1,
+      "row": 113,
+      "studentsCount": 11
+    },
+    {
+      "id": 204,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 64.0,
+      "subjectId": 11,
+      "term": 1,
+      "row": 114,
+      "studentsCount": 21
+    },
+    {
+      "id": 205,
+      "loadId": 15,
+      "teacherId": 12,
+      "value": 7.3,
+      "subjectId": 11,
+      "term": 1,
+      "row": 115,
+      "studentsCount": 21
+    },
+    {
+      "id": 206,
+      "loadId": 8,
+      "teacherId": 10,
+      "value": 55.7,
+      "subjectId": 11,
+      "term": 1,
+      "row": 116,
+      "studentsCount": 21
+    },
+    {
+      "id": 207,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 32.0,
+      "subjectId": 11,
+      "term": 1,
+      "row": 117,
+      "studentsCount": 11
+    },
+    {
+      "id": 208,
+      "loadId": 15,
+      "teacherId": 12,
+      "value": 3.8,
+      "subjectId": 11,
+      "term": 1,
+      "row": 118,
+      "studentsCount": 11
+    },
+    {
+      "id": 209,
+      "loadId": 8,
+      "teacherId": 10,
+      "value": 29.2,
+      "subjectId": 11,
+      "term": 1,
+      "row": 119,
+      "studentsCount": 11
+    },
+    {
+      "id": 210,
+      "loadId": 1,
+      "teacherId": 10,
+      "value": 32.0,
+      "subjectId": 11,
+      "term": 1,
+      "row": 120,
+      "studentsCount": 32
+    },
+    {
+      "id": 211,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 7.2,
+      "subjectId": 11,
+      "term": 1,
+      "row": 120,
+      "studentsCount": 32
+    },
+    {
+      "id": 212,
+      "loadId": 5,
+      "teacherId": 10,
+      "value": 16.0,
+      "subjectId": 11,
+      "term": 1,
+      "row": 120,
+      "studentsCount": 32
+    },
+    {
+      "id": 213,
+      "loadId": 1,
+      "teacherId": 8,
+      "value": 48.0,
+      "subjectId": 12,
+      "term": 1,
+      "row": 121,
+      "studentsCount": 32
+    },
+    {
+      "id": 214,
+      "loadId": 4,
+      "teacherId": 8,
+      "value": 8.8,
+      "subjectId": 12,
+      "term": 1,
+      "row": 121,
+      "studentsCount": 32
+    },
+    {
+      "id": 215,
+      "loadId": 5,
+      "teacherId": 8,
+      "value": 16.0,
+      "subjectId": 12,
+      "term": 1,
+      "row": 121,
+      "studentsCount": 32
+    },
+    {
+      "id": 216,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 96.0,
+      "subjectId": 12,
+      "term": 1,
+      "row": 122,
+      "studentsCount": 21
+    },
+    {
+      "id": 217,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 48.0,
+      "subjectId": 12,
+      "term": 1,
+      "row": 123,
+      "studentsCount": 11
+    },
+    {
+      "id": 218,
+      "loadId": 1,
+      "teacherId": 16,
+      "value": 32.0,
+      "subjectId": 13,
+      "term": 1,
+      "row": 124,
+      "studentsCount": 32
+    },
+    {
+      "id": 219,
+      "loadId": 4,
+      "teacherId": 16,
+      "value": 7.2,
+      "subjectId": 13,
+      "term": 1,
+      "row": 124,
+      "studentsCount": 32
+    },
+    {
+      "id": 220,
+      "loadId": 5,
+      "teacherId": 16,
+      "value": 16.0,
+      "subjectId": 13,
+      "term": 1,
+      "row": 124,
+      "studentsCount": 32
+    },
+    {
+      "id": 221,
+      "loadId": 2,
+      "teacherId": 16,
+      "value": 64.0,
+      "subjectId": 13,
+      "term": 1,
+      "row": 125,
+      "studentsCount": 21
+    },
+    {
+      "id": 222,
+      "loadId": 7,
+      "teacherId": 16,
+      "value": 34.7,
+      "subjectId": 13,
+      "term": 1,
+      "row": 125,
+      "studentsCount": 21
+    },
+    {
+      "id": 223,
+      "loadId": 15,
+      "teacherId": 10,
+      "value": 7.3,
+      "subjectId": 13,
+      "term": 1,
+      "row": 126,
+      "studentsCount": 21
+    },
+    {
+      "id": 224,
+      "loadId": 15,
+      "teacherId": 10,
+      "value": 3.8,
+      "subjectId": 13,
+      "term": 1,
+      "row": 127,
+      "studentsCount": 11
+    },
+    {
+      "id": 225,
+      "loadId": 2,
+      "teacherId": 16,
+      "value": 32.0,
+      "subjectId": 13,
+      "term": 1,
+      "row": 128,
+      "studentsCount": 11
+    },
+    {
+      "id": 226,
+      "loadId": 7,
+      "teacherId": 16,
+      "value": 18.2,
+      "subjectId": 13,
+      "term": 1,
+      "row": 128,
+      "studentsCount": 11
+    },
+    {
+      "id": 227,
+      "loadId": 1,
+      "teacherId": 5,
+      "value": 32.0,
+      "subjectId": 14,
+      "term": 1,
+      "row": 129,
+      "studentsCount": 32
+    },
+    {
+      "id": 228,
+      "loadId": 4,
+      "teacherId": 5,
+      "value": 7.2,
+      "subjectId": 14,
+      "term": 1,
+      "row": 129,
+      "studentsCount": 32
+    },
+    {
+      "id": 229,
+      "loadId": 5,
+      "teacherId": 5,
+      "value": 16.0,
+      "subjectId": 14,
+      "term": 1,
+      "row": 129,
+      "studentsCount": 32
+    },
+    {
+      "id": 230,
+      "loadId": 2,
+      "teacherId": 5,
+      "value": 64.0,
+      "subjectId": 14,
+      "term": 1,
+      "row": 130,
+      "studentsCount": 21
+    },
+    {
+      "id": 231,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 32.0,
+      "subjectId": 14,
+      "term": 1,
+      "row": 131,
+      "studentsCount": 11
+    },
+    {
+      "id": 232,
+      "loadId": 1,
+      "teacherId": 10,
+      "value": 32.0,
+      "subjectId": 15,
+      "term": 1,
+      "row": 132,
+      "studentsCount": 32
+    },
+    {
+      "id": 233,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 3.2,
+      "subjectId": 15,
+      "term": 1,
+      "row": 132,
+      "studentsCount": 32
+    },
+    {
+      "id": 234,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 64.0,
+      "subjectId": 15,
+      "term": 1,
+      "row": 133,
+      "studentsCount": 21
+    },
+    {
+      "id": 235,
+      "loadId": 3,
+      "teacherId": 10,
+      "value": 16.0,
+      "subjectId": 15,
+      "term": 1,
+      "row": 133,
+      "studentsCount": 21
+    },
+    {
+      "id": 236,
+      "loadId": 6,
+      "teacherId": 10,
+      "value": 6.3,
+      "subjectId": 15,
+      "term": 1,
+      "row": 133,
+      "studentsCount": 21
+    },
+    {
+      "id": 237,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 32.0,
+      "subjectId": 15,
+      "term": 1,
+      "row": 134,
+      "studentsCount": 11
+    },
+    {
+      "id": 238,
+      "loadId": 3,
+      "teacherId": 10,
+      "value": 16.0,
+      "subjectId": 15,
+      "term": 1,
+      "row": 134,
+      "studentsCount": 11
+    },
+    {
+      "id": 239,
+      "loadId": 6,
+      "teacherId": 10,
+      "value": 3.3,
+      "subjectId": 15,
+      "term": 1,
+      "row": 135,
+      "studentsCount": 11
+    },
+    {
+      "id": 240,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 34.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 136,
+      "studentsCount": 10
+    },
+    {
+      "id": 241,
+      "loadId": 6,
+      "teacherId": 12,
+      "value": 6.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 136,
+      "studentsCount": 10
+    },
+    {
+      "id": 242,
+      "loadId": 7,
+      "teacherId": 12,
+      "value": 16.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 136,
+      "studentsCount": 10
+    },
+    {
+      "id": 243,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 34.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 137,
+      "studentsCount": 10
+    },
+    {
+      "id": 244,
+      "loadId": 7,
+      "teacherId": 3,
+      "value": 17.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 137,
+      "studentsCount": 10
+    },
+    {
+      "id": 245,
+      "loadId": 1,
+      "teacherId": 5,
+      "value": 17.0,
+      "subjectId": 16,
+      "term": 2,
+      "row": 138,
+      "studentsCount": 19
+    },
+    {
+      "id": 246,
+      "loadId": 4,
+      "teacherId": 5,
+      "value": 0.8,
+      "subjectId": 16,
+      "term": 2,
+      "row": 138,
+      "studentsCount": 19
+    },
+    {
+      "id": 247,
+      "loadId": 2,
+      "teacherId": 5,
+      "value": 34.0,
+      "subjectId": 16,
+      "term": 2,
+      "row": 139,
+      "studentsCount": 19
+    },
+    {
+      "id": 248,
+      "loadId": 6,
+      "teacherId": 5,
+      "value": 5.7,
+      "subjectId": 16,
+      "term": 2,
+      "row": 139,
+      "studentsCount": 19
+    },
+    {
+      "id": 249,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 34.0,
+      "subjectId": 16,
+      "term": 2,
+      "row": 140,
+      "studentsCount": 19
+    },
+    {
+      "id": 250,
+      "loadId": 1,
+      "teacherId": 1,
+      "value": 17.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 142,
+      "studentsCount": 84
+    },
+    {
+      "id": 251,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 11.2,
+      "subjectId": 2,
+      "term": 2,
+      "row": 142,
+      "studentsCount": 84
+    },
+    {
+      "id": 252,
+      "loadId": 5,
+      "teacherId": 1,
+      "value": 42.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 142,
+      "studentsCount": 84
+    },
+    {
+      "id": 253,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 143,
+      "studentsCount": 22
+    },
+    {
+      "id": 254,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 68.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 145,
+      "studentsCount": 30
+    },
+    {
+      "id": 255,
+      "loadId": 15,
+      "teacherId": 7,
+      "value": 7.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 146,
+      "studentsCount": 20
+    },
+    {
+      "id": 256,
+      "loadId": 6,
+      "teacherId": 12,
+      "value": 9.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 147,
+      "studentsCount": 30
+    },
+    {
+      "id": 257,
+      "loadId": 2,
+      "teacherId": 13,
+      "value": 68.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 148,
+      "studentsCount": 21
+    },
+    {
+      "id": 258,
+      "loadId": 6,
+      "teacherId": 13,
+      "value": 10.5,
+      "subjectId": 4,
+      "term": 2,
+      "row": 148,
+      "studentsCount": 21
+    },
+    {
+      "id": 259,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 68.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 149,
+      "studentsCount": 22
+    },
+    {
+      "id": 260,
+      "loadId": 2,
+      "teacherId": 13,
+      "value": 68.0,
+      "subjectId": 5,
+      "term": 2,
+      "row": 150,
+      "studentsCount": 28
+    },
+    {
+      "id": 261,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 34.0,
+      "subjectId": 5,
+      "term": 2,
+      "row": 151,
+      "studentsCount": 14
+    },
+    {
+      "id": 262,
+      "loadId": 1,
+      "teacherId": 13,
+      "value": 17.0,
+      "subjectId": 5,
+      "term": 2,
+      "row": 152,
+      "studentsCount": 42
+    },
+    {
+      "id": 263,
+      "loadId": 4,
+      "teacherId": 13,
+      "value": 5.7,
+      "subjectId": 5,
+      "term": 2,
+      "row": 152,
+      "studentsCount": 42
+    },
+    {
+      "id": 264,
+      "loadId": 5,
+      "teacherId": 13,
+      "value": 21.0,
+      "subjectId": 5,
+      "term": 2,
+      "row": 152,
+      "studentsCount": 42
+    },
+    {
+      "id": 265,
+      "loadId": 1,
+      "teacherId": 8,
+      "value": 34.0,
+      "subjectId": 7,
+      "term": 2,
+      "row": 153,
+      "studentsCount": 42
+    },
+    {
+      "id": 266,
+      "loadId": 4,
+      "teacherId": 8,
+      "value": 7.4,
+      "subjectId": 7,
+      "term": 2,
+      "row": 153,
+      "studentsCount": 42
+    },
+    {
+      "id": 267,
+      "loadId": 5,
+      "teacherId": 8,
+      "value": 21.0,
+      "subjectId": 7,
+      "term": 2,
+      "row": 153,
+      "studentsCount": 42
+    },
+    {
+      "id": 268,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 102.0,
+      "subjectId": 7,
+      "term": 2,
+      "row": 154,
+      "studentsCount": 28
+    },
+    {
+      "id": 269,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 51.0,
+      "subjectId": 7,
+      "term": 2,
+      "row": 155,
+      "studentsCount": 15
+    },
+    {
+      "id": 270,
+      "loadId": 1,
+      "teacherId": 12,
+      "value": 34.0,
+      "subjectId": 17,
+      "term": 2,
+      "row": 156,
+      "studentsCount": 42
+    },
+    {
+      "id": 271,
+      "loadId": 4,
+      "teacherId": 12,
+      "value": 3.4,
+      "subjectId": 17,
+      "term": 2,
+      "row": 156,
+      "studentsCount": 42
+    },
+    {
+      "id": 272,
+      "loadId": 2,
+      "teacherId": 6,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 157,
+      "studentsCount": 20
+    },
+    {
+      "id": 273,
+      "loadId": 4,
+      "teacherId": 6,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 157,
+      "studentsCount": 20
+    },
+    {
+      "id": 274,
+      "loadId": 16,
+      "teacherId": 6,
+      "value": 5.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 157,
+      "studentsCount": 20
+    },
+    {
+      "id": 275,
+      "loadId": 1,
+      "teacherId": 11,
+      "value": 4.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 160,
+      "studentsCount": 20
+    },
+    {
+      "id": 276,
+      "loadId": 4,
+      "teacherId": 11,
+      "value": 0.6,
+      "subjectId": 4,
+      "term": 2,
+      "row": 160,
+      "studentsCount": 20
+    },
+    {
+      "id": 277,
+      "loadId": 2,
+      "teacherId": 11,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 161,
+      "studentsCount": 20
+    },
+    {
+      "id": 278,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 12.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 162,
+      "studentsCount": 20
+    },
+    {
+      "id": 279,
+      "loadId": 4,
+      "teacherId": 3,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 162,
+      "studentsCount": 20
+    },
+    {
+      "id": 280,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 163,
+      "studentsCount": 17
+    },
+    {
+      "id": 281,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 5.1,
+      "subjectId": 2,
+      "term": 2,
+      "row": 163,
+      "studentsCount": 17
+    },
+    {
+      "id": 282,
+      "loadId": 6,
+      "teacherId": 10,
+      "value": 5.1,
+      "subjectId": 2,
+      "term": 2,
+      "row": 164,
+      "studentsCount": 17
+    },
+    {
+      "id": 283,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 165,
+      "studentsCount": 23
+    },
+    {
+      "id": 284,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 6.9,
+      "subjectId": 2,
+      "term": 2,
+      "row": 165,
+      "studentsCount": 23
+    },
+    {
+      "id": 285,
+      "loadId": 6,
+      "teacherId": 9,
+      "value": 6.9,
+      "subjectId": 2,
+      "term": 2,
+      "row": 165,
+      "studentsCount": 23
+    },
+    {
+      "id": 286,
+      "loadId": 2,
+      "teacherId": 14,
+      "value": 4.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 166,
+      "studentsCount": 10
+    },
+    {
+      "id": 287,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 3.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 166,
+      "studentsCount": 10
+    },
+    {
+      "id": 288,
+      "loadId": 6,
+      "teacherId": 14,
+      "value": 3.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 166,
+      "studentsCount": 10
+    },
+    {
+      "id": 289,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 12.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 167,
+      "studentsCount": 20
+    },
+    {
+      "id": 290,
+      "loadId": 4,
+      "teacherId": 8,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 167,
+      "studentsCount": 20
+    },
+    {
+      "id": 291,
+      "loadId": 16,
+      "teacherId": 8,
+      "value": 5.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 167,
+      "studentsCount": 20
+    },
+    {
+      "id": 292,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 12.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 168,
+      "studentsCount": 20
+    },
+    {
+      "id": 293,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 6.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 168,
+      "studentsCount": 20
+    },
+    {
+      "id": 294,
+      "loadId": 1,
+      "teacherId": 7,
+      "value": 4.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 169,
+      "studentsCount": 33
+    },
+    {
+      "id": 295,
+      "loadId": 4,
+      "teacherId": 7,
+      "value": 1.2,
+      "subjectId": 4,
+      "term": 2,
+      "row": 169,
+      "studentsCount": 33
+    },
+    {
+      "id": 296,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 4.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 170,
+      "studentsCount": 23
+    },
+    {
+      "id": 297,
+      "loadId": 3,
+      "teacherId": 7,
+      "value": 2.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 170,
+      "studentsCount": 23
+    },
+    {
+      "id": 298,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 2.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 171,
+      "studentsCount": 10
+    },
+    {
+      "id": 299,
+      "loadId": 3,
+      "teacherId": 7,
+      "value": 2.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 171,
+      "studentsCount": 10
+    },
+    {
+      "id": 300,
+      "loadId": 2,
+      "teacherId": 1,
+      "value": 4.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 172,
+      "studentsCount": 14
+    },
+    {
+      "id": 301,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 4.2,
+      "subjectId": 4,
+      "term": 2,
+      "row": 172,
+      "studentsCount": 14
+    },
+    {
+      "id": 302,
+      "loadId": 6,
+      "teacherId": 1,
+      "value": 7.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 172,
+      "studentsCount": 14
+    },
+    {
+      "id": 303,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 173,
+      "studentsCount": 25
+    },
+    {
+      "id": 304,
+      "loadId": 4,
+      "teacherId": 12,
+      "value": 7.5,
+      "subjectId": 4,
+      "term": 2,
+      "row": 173,
+      "studentsCount": 25
+    },
+    {
+      "id": 305,
+      "loadId": 6,
+      "teacherId": 12,
+      "value": 7.5,
+      "subjectId": 4,
+      "term": 2,
+      "row": 173,
+      "studentsCount": 25
+    },
+    {
+      "id": 306,
+      "loadId": 2,
+      "teacherId": 11,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 174,
+      "studentsCount": 25
+    },
+    {
+      "id": 307,
+      "loadId": 4,
+      "teacherId": 11,
+      "value": 7.5,
+      "subjectId": 4,
+      "term": 2,
+      "row": 174,
+      "studentsCount": 25
+    },
+    {
+      "id": 308,
+      "loadId": 6,
+      "teacherId": 11,
+      "value": 7.5,
+      "subjectId": 4,
+      "term": 2,
+      "row": 174,
+      "studentsCount": 25
+    },
+    {
+      "id": 309,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 4.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 175,
+      "studentsCount": 10
+    },
+    {
+      "id": 310,
+      "loadId": 4,
+      "teacherId": 3,
+      "value": 3.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 175,
+      "studentsCount": 10
+    },
+    {
+      "id": 311,
+      "loadId": 6,
+      "teacherId": 12,
+      "value": 3.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 176,
+      "studentsCount": 10
+    },
+    {
+      "id": 312,
+      "loadId": 2,
+      "teacherId": 6,
+      "value": 8.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 177,
+      "studentsCount": 19
+    },
+    {
+      "id": 313,
+      "loadId": 4,
+      "teacherId": 6,
+      "value": 5.7,
+      "subjectId": 2,
+      "term": 2,
+      "row": 177,
+      "studentsCount": 19
+    },
+    {
+      "id": 314,
+      "loadId": 6,
+      "teacherId": 6,
+      "value": 5.7,
+      "subjectId": 2,
+      "term": 2,
+      "row": 177,
+      "studentsCount": 19
+    },
+    {
+      "id": 315,
+      "loadId": 7,
+      "teacherId": 6,
+      "value": 31.4,
+      "subjectId": 2,
+      "term": 2,
+      "row": 178,
+      "studentsCount": 19
+    },
+    {
+      "id": 316,
+      "loadId": 15,
+      "teacherId": 12,
+      "value": 6.6,
+      "subjectId": 2,
+      "term": 2,
+      "row": 179,
+      "studentsCount": 19
+    },
+    {
+      "id": 317,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 2.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 180,
+      "studentsCount": 23
+    },
+    {
+      "id": 318,
+      "loadId": 5,
+      "teacherId": 14,
+      "value": 11.5,
+      "subjectId": 4,
+      "term": 2,
+      "row": 180,
+      "studentsCount": 23
+    },
+    {
+      "id": 319,
+      "loadId": 2,
+      "teacherId": 14,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 181,
+      "studentsCount": 23
+    },
+    {
+      "id": 320,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 6.9,
+      "subjectId": 4,
+      "term": 2,
+      "row": 181,
+      "studentsCount": 23
+    },
+    {
+      "id": 321,
+      "loadId": 16,
+      "teacherId": 14,
+      "value": 5.8,
+      "subjectId": 4,
+      "term": 2,
+      "row": 181,
+      "studentsCount": 23
+    },
+    {
+      "id": 322,
+      "loadId": 4,
+      "teacherId": 7,
+      "value": 2.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 182,
+      "studentsCount": 20
+    },
+    {
+      "id": 323,
+      "loadId": 5,
+      "teacherId": 7,
+      "value": 10.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 182,
+      "studentsCount": 20
+    },
+    {
+      "id": 324,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 8.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 183,
+      "studentsCount": 20
+    },
+    {
+      "id": 325,
+      "loadId": 4,
+      "teacherId": 3,
+      "value": 6.0,
+      "subjectId": 4,
+      "term": 2,
+      "row": 183,
+      "studentsCount": 20
+    },
+    {
+      "id": 326,
+      "loadId": 1,
+      "teacherId": 1,
+      "value": 4.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 184,
+      "studentsCount": 60
+    },
+    {
+      "id": 327,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 7.8,
+      "subjectId": 2,
+      "term": 2,
+      "row": 184,
+      "studentsCount": 60
+    },
+    {
+      "id": 328,
+      "loadId": 5,
+      "teacherId": 1,
+      "value": 30.0,
+      "subjectId": 2,
+      "term": 2,
+      "row": 184,
+      "studentsCount": 60
+    },
+    {
+      "id": 329,
+      "loadId": 1,
+      "teacherId": 1,
+      "value": 17.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 185,
+      "studentsCount": 31
+    },
+    {
+      "id": 330,
+      "loadId": 4,
+      "teacherId": 1,
+      "value": 5.6,
+      "subjectId": 1,
+      "term": 2,
+      "row": 185,
+      "studentsCount": 31
+    },
+    {
+      "id": 331,
+      "loadId": 5,
+      "teacherId": 1,
+      "value": 15.5,
+      "subjectId": 1,
+      "term": 2,
+      "row": 185,
+      "studentsCount": 31
+    },
+    {
+      "id": 332,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 68.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 186,
+      "studentsCount": 17
+    },
+    {
+      "id": 333,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 34.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 187,
+      "studentsCount": 14
+    },
+    {
+      "id": 334,
+      "loadId": 1,
+      "teacherId": 4,
+      "value": 0.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 188,
+      "studentsCount": 9
+    },
+    {
+      "id": 335,
+      "loadId": 4,
+      "teacherId": 4,
+      "value": 0.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 188,
+      "studentsCount": 9
+    },
+    {
+      "id": 336,
+      "loadId": 5,
+      "teacherId": 4,
+      "value": 0.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 188,
+      "studentsCount": 9
+    },
+    {
+      "id": 337,
+      "loadId": 6,
+      "teacherId": 4,
+      "value": 2.7,
+      "subjectId": 1,
+      "term": 2,
+      "row": 188,
+      "studentsCount": 9
+    },
+    {
+      "id": 338,
+      "loadId": 1,
+      "teacherId": 4,
+      "value": 0.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 189,
+      "studentsCount": 9
+    },
+    {
+      "id": 339,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 34.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 189,
+      "studentsCount": 9
+    },
+    {
+      "id": 340,
+      "loadId": 4,
+      "teacherId": 4,
+      "value": 0.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 189,
+      "studentsCount": 9
+    },
+    {
+      "id": 341,
+      "loadId": 5,
+      "teacherId": 4,
+      "value": 0.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 189,
+      "studentsCount": 9
+    },
+    {
+      "id": 342,
+      "loadId": 1,
+      "teacherId": 4,
+      "value": 4.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 190,
+      "studentsCount": 20
+    },
+    {
+      "id": 343,
+      "loadId": 4,
+      "teacherId": 4,
+      "value": 0.6,
+      "subjectId": 1,
+      "term": 2,
+      "row": 190,
+      "studentsCount": 20
+    },
+    {
+      "id": 344,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 12.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 191,
+      "studentsCount": 20
+    },
+    {
+      "id": 345,
+      "loadId": 4,
+      "teacherId": 4,
+      "value": 6.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 191,
+      "studentsCount": 20
+    },
+    {
+      "id": 346,
+      "loadId": 6,
+      "teacherId": 4,
+      "value": 6.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 191,
+      "studentsCount": 20
+    },
+    {
+      "id": 347,
+      "loadId": 16,
+      "teacherId": 4,
+      "value": 5.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 191,
+      "studentsCount": 20
+    },
+    {
+      "id": 348,
+      "loadId": 4,
+      "teacherId": 4,
+      "value": 2.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 192,
+      "studentsCount": 19
+    },
+    {
+      "id": 349,
+      "loadId": 5,
+      "teacherId": 4,
+      "value": 9.5,
+      "subjectId": 1,
+      "term": 2,
+      "row": 192,
+      "studentsCount": 19
+    },
+    {
+      "id": 350,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 8.0,
+      "subjectId": 1,
+      "term": 2,
+      "row": 193,
+      "studentsCount": 19
+    },
+    {
+      "id": 351,
+      "loadId": 4,
+      "teacherId": 4,
+      "value": 5.7,
+      "subjectId": 1,
+      "term": 2,
+      "row": 193,
+      "studentsCount": 19
+    },
+    {
+      "id": 352,
+      "loadId": 16,
+      "teacherId": 4,
+      "value": 4.8,
+      "subjectId": 1,
+      "term": 2,
+      "row": 193,
+      "studentsCount": 19
+    },
+    {
+      "id": 353,
+      "loadId": 17,
+      "teacherId": 12,
+      "value": 108.0,
+      "subjectId": 18,
+      "term": 2,
+      "row": 194,
+      "studentsCount": 19
+    },
+    {
+      "id": 354,
+      "loadId": 6,
+      "teacherId": 12,
+      "value": 8.4,
+      "subjectId": 17,
+      "term": 2,
+      "row": 195,
+      "studentsCount": 28
+    },
+    {
+      "id": 355,
+      "loadId": 6,
+      "teacherId": 12,
+      "value": 4.2,
+      "subjectId": 17,
+      "term": 2,
+      "row": 196,
+      "studentsCount": 14
+    },
+    {
+      "id": 356,
+      "loadId": 15,
+      "teacherId": 3,
+      "value": 9.8,
+      "subjectId": 19,
+      "term": 2,
+      "row": 197,
+      "studentsCount": 28
+    },
+    {
+      "id": 357,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 68.0,
+      "subjectId": 19,
+      "term": 2,
+      "row": 198,
+      "studentsCount": 28
+    },
+    {
+      "id": 358,
+      "loadId": 8,
+      "teacherId": 9,
+      "value": 74.2,
+      "subjectId": 19,
+      "term": 2,
+      "row": 198,
+      "studentsCount": 28
+    },
+    {
+      "id": 359,
+      "loadId": 15,
+      "teacherId": 9,
+      "value": 5.2,
+      "subjectId": 19,
+      "term": 2,
+      "row": 200,
+      "studentsCount": 15
+    },
+    {
+      "id": 360,
+      "loadId": 8,
+      "teacherId": 3,
+      "value": 39.8,
+      "subjectId": 19,
+      "term": 2,
+      "row": 201,
+      "studentsCount": 15
+    },
+    {
+      "id": 361,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 34.0,
+      "subjectId": 19,
+      "term": 2,
+      "row": 202,
+      "studentsCount": 15
+    },
+    {
+      "id": 362,
+      "loadId": 1,
+      "teacherId": 9,
+      "value": 34.0,
+      "subjectId": 19,
+      "term": 2,
+      "row": 204,
+      "studentsCount": 43
+    },
+    {
+      "id": 363,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 7.4,
+      "subjectId": 19,
+      "term": 2,
+      "row": 204,
+      "studentsCount": 43
+    },
+    {
+      "id": 364,
+      "loadId": 5,
+      "teacherId": 9,
+      "value": 21.5,
+      "subjectId": 19,
+      "term": 2,
+      "row": 204,
+      "studentsCount": 43
+    },
+    {
+      "id": 365,
+      "loadId": 2,
+      "teacherId": 13,
+      "value": 68.0,
+      "subjectId": 8,
+      "term": 2,
+      "row": 205,
+      "studentsCount": 28
+    },
+    {
+      "id": 366,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 34.0,
+      "subjectId": 8,
+      "term": 2,
+      "row": 206,
+      "studentsCount": 15
+    },
+    {
+      "id": 367,
+      "loadId": 1,
+      "teacherId": 13,
+      "value": 34.0,
+      "subjectId": 8,
+      "term": 2,
+      "row": 207,
+      "studentsCount": 43
+    },
+    {
+      "id": 368,
+      "loadId": 4,
+      "teacherId": 13,
+      "value": 7.4,
+      "subjectId": 8,
+      "term": 2,
+      "row": 207,
+      "studentsCount": 43
+    },
+    {
+      "id": 369,
+      "loadId": 5,
+      "teacherId": 13,
+      "value": 21.5,
+      "subjectId": 8,
+      "term": 2,
+      "row": 207,
+      "studentsCount": 43
+    },
+    {
+      "id": 370,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 34.0,
+      "subjectId": 11,
+      "term": 2,
+      "row": 208,
+      "studentsCount": 28
+    },
+    {
+      "id": 371,
+      "loadId": 6,
+      "teacherId": 10,
+      "value": 8.4,
+      "subjectId": 11,
+      "term": 2,
+      "row": 208,
+      "studentsCount": 28
+    },
+    {
+      "id": 372,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 17.0,
+      "subjectId": 11,
+      "term": 2,
+      "row": 209,
+      "studentsCount": 15
+    },
+    {
+      "id": 373,
+      "loadId": 6,
+      "teacherId": 10,
+      "value": 4.5,
+      "subjectId": 11,
+      "term": 2,
+      "row": 209,
+      "studentsCount": 15
+    },
+    {
+      "id": 374,
+      "loadId": 1,
+      "teacherId": 10,
+      "value": 34.0,
+      "subjectId": 11,
+      "term": 2,
+      "row": 210,
+      "studentsCount": 43
+    },
+    {
+      "id": 375,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 3.4,
+      "subjectId": 11,
+      "term": 2,
+      "row": 210,
+      "studentsCount": 43
+    },
+    {
+      "id": 376,
+      "loadId": 2,
+      "teacherId": 9,
+      "value": 68.0,
+      "subjectId": 13,
+      "term": 2,
+      "row": 211,
+      "studentsCount": 28
+    },
+    {
+      "id": 377,
+      "loadId": 6,
+      "teacherId": 9,
+      "value": 8.4,
+      "subjectId": 13,
+      "term": 2,
+      "row": 211,
+      "studentsCount": 28
+    },
+    {
+      "id": 378,
+      "loadId": 2,
+      "teacherId": 4,
+      "value": 34.0,
+      "subjectId": 13,
+      "term": 2,
+      "row": 212,
+      "studentsCount": 15
+    },
+    {
+      "id": 379,
+      "loadId": 6,
+      "teacherId": 4,
+      "value": 4.5,
+      "subjectId": 13,
+      "term": 2,
+      "row": 212,
+      "studentsCount": 15
+    },
+    {
+      "id": 380,
+      "loadId": 1,
+      "teacherId": 9,
+      "value": 34.0,
+      "subjectId": 13,
+      "term": 2,
+      "row": 213,
+      "studentsCount": 43
+    },
+    {
+      "id": 381,
+      "loadId": 4,
+      "teacherId": 9,
+      "value": 3.4,
+      "subjectId": 13,
+      "term": 2,
+      "row": 213,
+      "studentsCount": 43
+    },
+    {
+      "id": 382,
+      "loadId": 1,
+      "teacherId": 7,
+      "value": 32.0,
+      "subjectId": 20,
+      "term": 2,
+      "row": 214,
+      "studentsCount": 32
+    },
+    {
+      "id": 383,
+      "loadId": 4,
+      "teacherId": 7,
+      "value": 7.2,
+      "subjectId": 20,
+      "term": 2,
+      "row": 214,
+      "studentsCount": 32
+    },
+    {
+      "id": 384,
+      "loadId": 5,
+      "teacherId": 7,
+      "value": 16.0,
+      "subjectId": 20,
+      "term": 2,
+      "row": 214,
+      "studentsCount": 32
+    },
+    {
+      "id": 385,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 64.0,
+      "subjectId": 20,
+      "term": 2,
+      "row": 215,
+      "studentsCount": 21
+    },
+    {
+      "id": 386,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 32.0,
+      "subjectId": 20,
+      "term": 2,
+      "row": 216,
+      "studentsCount": 11
+    },
+    {
+      "id": 387,
+      "loadId": 1,
+      "teacherId": 14,
+      "value": 32.0,
+      "subjectId": 21,
+      "term": 2,
+      "row": 217,
+      "studentsCount": 32
+    },
+    {
+      "id": 388,
+      "loadId": 4,
+      "teacherId": 14,
+      "value": 3.2,
+      "subjectId": 21,
+      "term": 2,
+      "row": 217,
+      "studentsCount": 32
+    },
+    {
+      "id": 389,
+      "loadId": 3,
+      "teacherId": 14,
+      "value": 16.0,
+      "subjectId": 21,
+      "term": 2,
+      "row": 218,
+      "studentsCount": 21
+    },
+    {
+      "id": 390,
+      "loadId": 6,
+      "teacherId": 14,
+      "value": 6.3,
+      "subjectId": 21,
+      "term": 2,
+      "row": 218,
+      "studentsCount": 21
+    },
+    {
+      "id": 391,
+      "loadId": 3,
+      "teacherId": 14,
+      "value": 16.0,
+      "subjectId": 21,
+      "term": 2,
+      "row": 219,
+      "studentsCount": 11
+    },
+    {
+      "id": 392,
+      "loadId": 6,
+      "teacherId": 14,
+      "value": 3.3,
+      "subjectId": 21,
+      "term": 2,
+      "row": 219,
+      "studentsCount": 11
+    },
+    {
+      "id": 393,
+      "loadId": 1,
+      "teacherId": 10,
+      "value": 32.0,
+      "subjectId": 22,
+      "term": 2,
+      "row": 220,
+      "studentsCount": 32
+    },
+    {
+      "id": 394,
+      "loadId": 4,
+      "teacherId": 10,
+      "value": 7.2,
+      "subjectId": 22,
+      "term": 2,
+      "row": 220,
+      "studentsCount": 32
+    },
+    {
+      "id": 395,
+      "loadId": 5,
+      "teacherId": 10,
+      "value": 16.0,
+      "subjectId": 22,
+      "term": 2,
+      "row": 220,
+      "studentsCount": 32
+    },
+    {
+      "id": 396,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 64.0,
+      "subjectId": 22,
+      "term": 2,
+      "row": 221,
+      "studentsCount": 21
+    },
+    {
+      "id": 397,
+      "loadId": 2,
+      "teacherId": 10,
+      "value": 32.0,
+      "subjectId": 22,
+      "term": 2,
+      "row": 222,
+      "studentsCount": 11
+    },
+    {
+      "id": 398,
+      "loadId": 1,
+      "teacherId": 6,
+      "value": 32.0,
+      "subjectId": 15,
+      "term": 2,
+      "row": 223,
+      "studentsCount": 32
+    },
+    {
+      "id": 399,
+      "loadId": 4,
+      "teacherId": 6,
+      "value": 7.2,
+      "subjectId": 15,
+      "term": 2,
+      "row": 223,
+      "studentsCount": 32
+    },
+    {
+      "id": 400,
+      "loadId": 5,
+      "teacherId": 6,
+      "value": 16.0,
+      "subjectId": 15,
+      "term": 2,
+      "row": 223,
+      "studentsCount": 32
+    },
+    {
+      "id": 401,
+      "loadId": 2,
+      "teacherId": 6,
+      "value": 32.0,
+      "subjectId": 15,
+      "term": 2,
+      "row": 224,
+      "studentsCount": 21
+    },
+    {
+      "id": 402,
+      "loadId": 3,
+      "teacherId": 6,
+      "value": 16.0,
+      "subjectId": 15,
+      "term": 2,
+      "row": 224,
+      "studentsCount": 21
+    },
+    {
+      "id": 403,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 16.0,
+      "subjectId": 15,
+      "term": 2,
+      "row": 225,
+      "studentsCount": 11
+    },
+    {
+      "id": 404,
+      "loadId": 3,
+      "teacherId": 3,
+      "value": 16.0,
+      "subjectId": 15,
+      "term": 2,
+      "row": 225,
+      "studentsCount": 11
+    },
+    {
+      "id": 405,
+      "loadId": 1,
+      "teacherId": 8,
+      "value": 64.0,
+      "subjectId": 23,
+      "term": 2,
+      "row": 226,
+      "studentsCount": 32
+    },
+    {
+      "id": 406,
+      "loadId": 4,
+      "teacherId": 8,
+      "value": 10.4,
+      "subjectId": 23,
+      "term": 2,
+      "row": 226,
+      "studentsCount": 32
+    },
+    {
+      "id": 407,
+      "loadId": 5,
+      "teacherId": 8,
+      "value": 16.0,
+      "subjectId": 23,
+      "term": 2,
+      "row": 226,
+      "studentsCount": 32
+    },
+    {
+      "id": 408,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 64.0,
+      "subjectId": 23,
+      "term": 2,
+      "row": 227,
+      "studentsCount": 21
+    },
+    {
+      "id": 409,
+      "loadId": 2,
+      "teacherId": 8,
+      "value": 32.0,
+      "subjectId": 23,
+      "term": 2,
+      "row": 228,
+      "studentsCount": 11
+    },
+    {
+      "id": 410,
+      "loadId": 15,
+      "teacherId": 3,
+      "value": 7.3,
+      "subjectId": 24,
+      "term": 2,
+      "row": 229,
+      "studentsCount": 21
+    },
+    {
+      "id": 411,
+      "loadId": 2,
+      "teacherId": 13,
+      "value": 64.0,
+      "subjectId": 24,
+      "term": 2,
+      "row": 230,
+      "studentsCount": 21
+    },
+    {
+      "id": 412,
+      "loadId": 8,
+      "teacherId": 13,
+      "value": 55.7,
+      "subjectId": 24,
+      "term": 2,
+      "row": 230,
+      "studentsCount": 21
+    },
+    {
+      "id": 413,
+      "loadId": 15,
+      "teacherId": 13,
+      "value": 3.8,
+      "subjectId": 24,
+      "term": 2,
+      "row": 231,
+      "studentsCount": 11
+    },
+    {
+      "id": 414,
+      "loadId": 2,
+      "teacherId": 3,
+      "value": 32.0,
+      "subjectId": 24,
+      "term": 2,
+      "row": 232,
+      "studentsCount": 11
+    },
+    {
+      "id": 415,
+      "loadId": 8,
+      "teacherId": 3,
+      "value": 29.2,
+      "subjectId": 24,
+      "term": 2,
+      "row": 232,
+      "studentsCount": 11
+    },
+    {
+      "id": 416,
+      "loadId": 1,
+      "teacherId": 13,
+      "value": 32.0,
+      "subjectId": 24,
+      "term": 2,
+      "row": 233,
+      "studentsCount": 32
+    },
+    {
+      "id": 417,
+      "loadId": 4,
+      "teacherId": 13,
+      "value": 7.2,
+      "subjectId": 24,
+      "term": 2,
+      "row": 233,
+      "studentsCount": 32
+    },
+    {
+      "id": 418,
+      "loadId": 5,
+      "teacherId": 13,
+      "value": 16.0,
+      "subjectId": 24,
+      "term": 2,
+      "row": 233,
+      "studentsCount": 32
+    },
+    {
+      "id": 419,
+      "loadId": 10,
+      "teacherId": 6,
+      "value": 48.0,
+      "subjectId": 25,
+      "term": 2,
+      "row": 234,
+      "studentsCount": 21
+    },
+    {
+      "id": 420,
+      "loadId": 10,
+      "teacherId": 6,
+      "value": 48.0,
+      "subjectId": 25,
+      "term": 2,
+      "row": 235,
+      "studentsCount": 11
+    },
+    {
+      "id": 421,
+      "loadId": 1,
+      "teacherId": 12,
+      "value": 34.0,
+      "subjectId": 26,
+      "term": 2,
+      "row": 236,
+      "studentsCount": 43
+    },
+    {
+      "id": 422,
+      "loadId": 4,
+      "teacherId": 12,
+      "value": 3.4,
+      "subjectId": 26,
+      "term": 2,
+      "row": 236,
+      "studentsCount": 43
+    },
+    {
+      "id": 423,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 32.0,
+      "subjectId": 26,
+      "term": 2,
+      "row": 237,
+      "studentsCount": 28
+    },
+    {
+      "id": 424,
+      "loadId": 6,
+      "teacherId": 12,
+      "value": 8.4,
+      "subjectId": 26,
+      "term": 2,
+      "row": 237,
+      "studentsCount": 28
+    },
+    {
+      "id": 425,
+      "loadId": 2,
+      "teacherId": 12,
+      "value": 16.0,
+      "subjectId": 26,
+      "term": 2,
+      "row": 238,
+      "studentsCount": 15
+    },
+    {
+      "id": 426,
+      "loadId": 6,
+      "teacherId": 12,
+      "value": 4.5,
+      "subjectId": 26,
+      "term": 2,
+      "row": 238,
+      "studentsCount": 15
+    },
+    {
+      "id": 427,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 34.0,
+      "subjectId": 27,
+      "term": 2,
+      "row": 239,
+      "studentsCount": 28
+    },
+    {
+      "id": 428,
+      "loadId": 2,
+      "teacherId": 7,
+      "value": 17.0,
+      "subjectId": 27,
+      "term": 2,
+      "row": 240,
+      "studentsCount": 15
+    },
+    {
+      "id": 429,
+      "loadId": 1,
+      "teacherId": 7,
+      "value": 34.0,
+      "subjectId": 27,
+      "term": 2,
+      "row": 241,
+      "studentsCount": 43
+    },
+    {
+      "id": 430,
+      "loadId": 4,
+      "teacherId": 7,
+      "value": 7.4,
+      "subjectId": 27,
+      "term": 2,
+      "row": 241,
+      "studentsCount": 43
+    },
+    {
+      "id": 431,
+      "loadId": 5,
+      "teacherId": 7,
+      "value": 21.5,
+      "subjectId": 27,
+      "term": 2,
+      "row": 241,
+      "studentsCount": 43
+    }
+  ]
+}

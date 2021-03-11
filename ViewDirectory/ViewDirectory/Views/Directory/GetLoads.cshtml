@@ -1,0 +1,19 @@
+﻿@model List<UnitOfLoads>
+
+@{
+    var load = ViewData["loads"] as List<Load>;
+    var subject = ViewData["subjects"] as List<Subject>;
+    var teacher = ViewData["teachers"] as List<Teacher>;
+}
+
+@for (int i = 0; i < Model.Count; i++)
+{
+    <div class="container__facilties_groups__table">
+        <div>Число студентов: @Model[i].StudentsCount</div>
+        <div>Часов: @Model[i].Term</div>
+        <div>Ряд: @Model[i].Row</div>
+        <div>Тип нагрузки: @load[i].Name</div>
+        <div>Предмет: @subject[i].Name</div>
+        <div>Преподаватель: @teacher[i].Name</div>
+    </div>
+}
