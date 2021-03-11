@@ -1,0 +1,94 @@
+﻿
+@{
+    ViewData["Title"] = "PDF view tool";
+}
+<div id="modDialog" class="modal fade bg-dark">
+    <div id="dialogContent" class="modal-dialog modal-lg"></div>
+</div>
+
+<br />
+<hr />
+
+<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+    <h1 class="display-4">Отчёты PDF</h1>
+    <p class="lead">
+        Выберите один из видов отчёта, чтобы вывести на экран или распечатать.
+        Отчёты представлены в трёх видах: нагрузочный, факт. план, распред. нагрузки.
+    </p>
+</div>
+
+<div class="container">
+    <div class="card-deck mb-3 text-center">
+        <div class="card mb-4 box-shadow">
+            <div class="card-header bg-info">
+                <h4 class="my-0 font-weight-normal">Команда 1</h4>
+            </div>
+            <div class="card-body">
+                <h3 class="card-title pricing-card-title"><small class="text-muted">Описание отчёта 1</small></h3>
+                <i class="fa fa-5x fa-edit m-5 "></i>
+                <button type="button" class="btn btn-lg btn-block btn-outline-primary detailsBtn" data-docid="0">Просмотр & печать</button>
+            </div>
+        </div>
+        <div class="card mb-4 box-shadow">
+            <div class="card-header bg-success">
+                <h4 class="my-0 font-weight-normal">Команда 2</h4>
+            </div>
+            <div class="card-body">
+                <h3 class="card-title pricing-card-title"><small class="text-muted">Описание отчёта 2</small></h3>
+                <i class="fa fa-5x fa-copy m-5 "></i>
+                <button type="button" class="btn btn-lg btn-block btn-outline-primary detailsBtn" data-docid="1">Просмотр & печать</button>
+            </div>
+        </div>
+        <div class="card mb-4 box-shadow">
+            <div class="card-header bg-dark text-white">
+                <h4 class="my-0 font-weight-normal">Команда 3</h4>
+            </div>
+            <div class="card-body">
+                <h3 class="card-title pricing-card-title"><small class="text-muted">Описание отчёта 3</small></h3>
+                <i class="fa fa-5x fa-clone m-5"></i>
+                <button type="button" class="btn btn-lg btn-block btn-outline-primary detailsBtn" data-docid="2">Просмотр & печать</button>
+            </div>
+        </div>
+    </div>
+
+    <br />
+</div>
+
+@section Scripts {
+
+    <script>
+        $(document).ready(function () {
+            $("body").on("click", ".detailsBtn", function () {
+                let id = $(this).data("docid");
+                $.ajax({
+                    url: "@Url.Action("GetReportDetails")",
+                    type: "GET",
+                    data: "reportNumber=" + id,
+                    beforeSend: function () {
+                        $.LoadingOverlay('show');
+                    },
+                    success: function (data) {
+                        if (data) {
+                            triggerWindowChange(data);
+                        }
+                    },
+                    error: function (err) {
+                        alert(err.responseText);
+                    },
+                    complete: function () {
+                        $.LoadingOverlay('hide');
+                    }
+                });
+            });
+        });
+
+        function triggerWindowChange(url) {
+            setTimeout(openInNewTab(url), 100);
+        }
+
+        function openInNewTab(url) {
+            var win = window.open(window.location.origin + '/' + url, '_blank');
+            win.focus();
+        }
+    </script>
+}
