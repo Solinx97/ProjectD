@@ -1,0 +1,15 @@
+﻿@model List<OtherGroup>
+
+<div class="flex-row__flex-start">
+    <div class="data-1">Группа</div>
+    <div class="data-1">Номер</div>
+    <div class="data-1">Число ст</div>
+</div>
+@foreach (var item in Model)
+{
+    <div class="flex-row__flex-start">
+        <div class="data-1">@item.Name</div>
+        <div class="data-1">@item.Number</div>
+        <div class="data-1">@item.StudentsNumber</div>
+    </div>
+}

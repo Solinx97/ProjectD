@@ -1,0 +1,15 @@
+﻿@model List<PlanTimeType>
+
+<div class="flex-row__flex-start">
+    <div class="data-1">Всего по плану</div>
+    <div class="data-1">Всего факт</div>
+    <div class="data-1">Всего откл.</div>
+</div>
+@foreach (var item in Model)
+{
+    <div class="flex-row__flex-start">
+        <div class="data-1">@item.TotalPlanTime</div>
+        <div class="data-1">@item.FactPlanTime</div>
+        <div class="data-1">@item.DiffPlanTime</div>
+    </div>
+}
