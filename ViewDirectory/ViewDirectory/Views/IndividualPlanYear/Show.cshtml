@@ -1,66 +1,15 @@
 ﻿@model IndividualPlanOnTerm
 
+@Html.DropDownList("monthsId", ViewBag.Months as SelectList, new { @class = "btn btn-secondary dropdown-toggle space" })
+@Html.DropDownList("planTimeTypesId", ViewBag.PlanTimeTypes as SelectList, new { @class = "btn btn-secondary dropdown-toggle space" })
+@Html.DropDownList("subjectsId", ViewBag.Subjects as SelectList, new { @class = "btn btn-secondary dropdown-toggle space" })
+<div class="flex-row_space-between">
+    <div><strong>Всего</strong></div>
+    <div><strong>Нагрузка</strong></div>
+    <div><strong>Группы</strong></div>
+</div>
 <div class="flex-row__flex-start">
-    <div>
-        @foreach (var item in Model.Bids)
-        {
-            <div>@item.Name</div>
-        }
-    </div>
-    <div>
-        @foreach (var item in Model.Faculties)
-        {
-            <div>@item.Name</div>
-        }
-    </div>
-    <div>
-        @foreach (var item in Model.Groups)
-        {
-            <div>@item.Name</div>
-            <div>@item.Number</div>
-            <div>@item.StudentsNumber</div>
-        }
-    </div>
-    <div>
-        @foreach (var item in Model.Months)
-        {
-            <div>@item.Name</div>
-        }
-    </div>
-    <div>
-        @foreach (var item in Model.PlanTimeTypes)
-        {
-            <div>@item.Name</div>
-            <div>@item.TotalPlanTime</div>
-            <div>@item.FactPlanTime</div>
-            <div>@item.DiffPlanTime</div>
-        }
-    </div>
-    <div>
-        @foreach (var item in Model.PlanTimes)
-        {
-            <div>@item.TimePlan</div>
-            <div>@item.TimeFact</div>
-            <div>@item.TimeDiff</div>
-            <div>@item.SubjectPlan</div>
-        }
-    </div>
-    <div>
-        @foreach (var item in Model.Subjects)
-        {
-            <div>@item.Name</div>
-        }
-    </div>
-    <div>
-        @foreach (var item in Model.Teachers)
-        {
-            <div>@item.FirstName</div>
-        }
-    </div>
-    <div>
-        @foreach (var item in Model.Terms)
-        {
-            <div>@item.Name</div>
-        }
-    </div>
+    <div id="result-5"></div>
+    <div id="result-3"></div>
+    <div id="result-4"></div>
 </div>

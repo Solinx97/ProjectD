@@ -66,3 +66,90 @@ function showBids() {
 }
 
 showBids();
+
+function showPlanTimes() {
+    let monthName = "";
+    let planTimeTypeName = "";
+    let subjectName = "";
+    let selMonths = document.querySelector("#monthsId");
+
+    if (selMonths != undefined) {
+        let selPlanTimeTypes = document.querySelector("#planTimeTypesId");
+        let selSubjects = document.querySelector("#subjectsId");
+
+        monthName = selMonths[0].text;
+        planTimeTypeName = selPlanTimeTypes[0].text;
+        subjectName = selSubjects[0].text;
+
+        ajaxQuery("GET", "/IndividualPlanYear/GetPlanTimes", undefined,
+            { "monthName": monthName, "planTimeTypeName": planTimeTypeName, "subjectName": subjectName }, "#result-3");
+
+        ajaxQuery("GET", "/IndividualPlanYear/GetPlanTimeType", undefined,
+            { "planTimeTypeName": planTimeTypeName }, "#result-5");
+
+        ajaxQuery("GET", "/IndividualPlanYear/GetGroups", undefined,
+            { "subjectName": subjectName }, "#result-4");
+
+        selMonths.onchange = function () {
+            monthName = selMonths[selMonths.selectedIndex].text;
+            ajaxQuery("GET", "/IndividualPlanYear/GetPlanTimes", undefined,
+                { "monthName": monthName, "planTimeTypeName": planTimeTypeName, "subjectName": subjectName  }, "#result-3");
+        };
+
+        selPlanTimeTypes.onchange = function () {
+            planTimeTypeName = selPlanTimeTypes[selPlanTimeTypes.selectedIndex].text;
+            ajaxQuery("GET", "/IndividualPlanYear/GetPlanTimes", undefined,
+                { "monthName": monthName, "planTimeTypeName": planTimeTypeName, "subjectName": subjectName }, "#result-3");
+            ajaxQuery("GET", "/IndividualPlanYear/GetPlanTimeType", undefined,
+                { "planTimeTypeName": planTimeTypeName }, "#result-5");
+        };
+
+        selSubjects.onchange = function () {
+            subjectName = selSubjects[selSubjects.selectedIndex].text;
+            ajaxQuery("GET", "/IndividualPlanYear/GetPlanTimes", undefined,
+                { "monthName": monthName, "planTimeTypeName": planTimeTypeName, "subjectName": subjectName }, "#result-3");
+            ajaxQuery("GET", "/IndividualPlanYear/GetGroups", undefined,
+                { "subjectName": subjectName }, "#result-4");
+        };
+    }
+}
+
+showPlanTimes();
+
+//function showGroups() {
+//    let subjectName = "";
+//    let selSubjects = document.querySelector("#subjectsId");
+
+//    if (selSubjects != undefined) {
+//        subjectName = selSubjects[0].text;
+
+//        ajaxQuery("GET", "/IndividualPlanYear/GetGroups", undefined,
+//            { "subjectName": subjectName }, "#result-4");
+//        selSubjects.onchange = function () {
+//            subjectName = selSubjects[selSubjects.selectedIndex].text;
+//            ajaxQuery("GET", "/IndividualPlanYear/GetGroups", undefined,
+//                { "subjectName": subjectName }, "#result-4");
+//        };
+//    }
+//}
+
+//showGroups();
+
+//function showPlanTimeType() {
+//    let planTimeTypeName = "";
+//    let selPlanTimeTypeТуче = document.querySelector("#planTimeTypesId");
+
+//    if (selPlanTimeTypeТуче != undefined) {
+//        planTimeTypeName = selPlanTimeTypeТуче[0].text;
+
+//        ajaxQuery("GET", "/IndividualPlanYear/GetPlanTimeType", undefined,
+//            { "planTimeTypeName": planTimeTypeName }, "#result-5");
+//        selPlanTimeTypeТуче.onchange = function () {
+//            planTimeTypeName = selPlanTimeTypeТуче[selPlanTimeTypeТуче.selectedIndex].text;
+//            ajaxQuery("GET", "/IndividualPlanYear/GetPlanTimeType", undefined,
+//                { "planTimeTypeName": planTimeTypeName }, "#result-5");
+//        };
+//    }
+//}
+
+//showPlanTimeType();

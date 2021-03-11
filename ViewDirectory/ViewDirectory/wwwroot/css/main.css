@@ -10,6 +10,11 @@
     justify-content: flex-start;
 }
 
+.flex-row_space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
 .container__facilties_groups {
     width: 50%;
 }
@@ -32,4 +37,9 @@
 
 .space {
     margin: 20px;
+}
+
+.data-1 {
+    margin: 10px;
+    width: 125px;
 }
