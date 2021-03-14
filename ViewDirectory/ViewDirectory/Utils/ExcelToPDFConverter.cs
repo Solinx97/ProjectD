@@ -9,7 +9,7 @@ namespace ReportsWebUI.Utils
     {
         public static async Task<FileInfo> GetConvertedResponseBySource(string filePath, string destinationFilePath)
         {
-            ConvertApi convertApi = new ConvertApi("tjAqxUeQ0HuLdLI6");
+            ConvertApi convertApi = new ConvertApi("<your secret key>"); // get secret from https://www.convertapi.com/a via register
             ConvertApiResponse result = await convertApi.ConvertAsync("xlsx", "pdf", new[]
             {
                new ConvertApiFileParam(filePath),
